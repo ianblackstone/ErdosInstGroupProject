@@ -1,327 +1,327 @@
 FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
-01000,Alabama,Alabama,4887681,16.8
-01001,Alabama,Autauga County,55533,13.8
-01003,Alabama,Baldwin County,217855,9.8
-01005,Alabama,Barbour County,24872,30.9
-01007,Alabama,Bibb County,22367,21.8
-01009,Alabama,Blount County,57771,13.2
-01011,Alabama,Bullock County,10174,42.5
-01013,Alabama,Butler County,19631,24.5
-01015,Alabama,Calhoun County,114331,19.5
-01017,Alabama,Chambers County,33600,18.7
-01019,Alabama,Cherokee County,26014,16.3
-01021,Alabama,Chilton County,44163,17.3
-01023,Alabama,Choctaw County,12833,22.1
-01025,Alabama,Clarke County,23918,22.8
-01027,Alabama,Clay County,13294,17.6
-01029,Alabama,Cleburne County,15010,16.0
-01031,Alabama,Coffee County,51950,13.8
-01033,Alabama,Colbert County,55004,13.8
-01035,Alabama,Conecuh County,12292,24.4
-01037,Alabama,Coosa County,10643,18.9
-01039,Alabama,Covington County,36953,19.9
-01041,Alabama,Crenshaw County,13825,19.5
-01043,Alabama,Cullman County,83418,14.5
-01045,Alabama,Dale County,49143,16.2
-01047,Alabama,Dallas County,38294,31.4
-01049,Alabama,DeKalb County,71407,21.3
-01051,Alabama,Elmore County,81011,11.2
-01053,Alabama,Escambia County,36524,23.6
-01055,Alabama,Etowah County,102611,17.5
-01057,Alabama,Fayette County,16445,23.5
-01059,Alabama,Franklin County,31298,19.2
-01061,Alabama,Geneva County,26306,21.3
-01063,Alabama,Greene County,8209,30.1
-01065,Alabama,Hale County,14749,25.6
-01067,Alabama,Henry County,17173,17.9
-01069,Alabama,Houston County,104770,16.5
-01071,Alabama,Jackson County,51621,19.7
-01073,Alabama,Jefferson County,659429,16.1
-01075,Alabama,Lamar County,13882,17.4
-01077,Alabama,Lauderdale County,92604,14.0
-01079,Alabama,Lawrence County,32941,19.3
-01081,Alabama,Lee County,163656,19.0
-01083,Alabama,Limestone County,96177,11.4
-01085,Alabama,Lowndes County,9974,25.1
-01087,Alabama,Macon County,18321,30.2
-01089,Alabama,Madison County,367004,11.9
-01091,Alabama,Marengo County,19056,24.0
-01093,Alabama,Marion County,29750,20.2
-01095,Alabama,Marshall County,96170,18.3
-01097,Alabama,Mobile County,413908,20.8
-01099,Alabama,Monroe County,21062,21.9
-01101,Alabama,Montgomery County,226504,20.1
-01103,Alabama,Morgan County,119203,13.2
-01105,Alabama,Perry County,9070,35.3
-01107,Alabama,Pickens County,19980,23.1
-01109,Alabama,Pike County,33242,23.6
-01111,Alabama,Randolph County,22727,19.7
-01113,Alabama,Russell County,57784,21.7
-01115,Alabama,St. Clair County,88654,12.0
-01117,Alabama,Shelby County,215583,8.0
-01119,Alabama,Sumter County,12634,34.7
-01121,Alabama,Talladega County,80137,19.3
-01123,Alabama,Tallapoosa County,40535,19.7
-01125,Alabama,Tuscaloosa County,208319,16.8
-01127,Alabama,Walker County,63669,17.9
-01129,Alabama,Washington County,16402,17.6
-01131,Alabama,Wilcox County,10599,33.4
-01133,Alabama,Winston County,23693,18.6
-02000,Alaska,Alaska,735139,11.1
-02013,Alaska,Aleutians East Borough,3395,15.5
-02016,Alaska,Aleutians West Census Area,5640,10.0
-02020,Alaska,Anchorage Municipality,290521,9.5
-02050,Alaska,Bethel Census Area,18219,32.7
-02060,Alaska,Bristol Bay Borough,880,11.2
-02068,Alaska,Denali Borough,2032,6.9
-02070,Alaska,Dillingham Census Area,4991,22.0
-02090,Alaska,Fairbanks North Star Borough,98565,8.6
-02100,Alaska,Haines Borough,2488,10.5
-02105,Alaska,Hoonah-Angoon Census Area,2155,17.2
-02110,Alaska,Juneau City and Borough,32037,7.3
-02122,Alaska,Kenai Peninsula Borough,58561,12.4
-02130,Alaska,Ketchikan Gateway Borough,13856,9.1
-02150,Alaska,Kodiak Island Borough,13250,8.2
-02158,Alaska,Kusilvak Census Area,8323,35.1
-02164,Alaska,Lake and Peninsula Borough,1596,18.2
-02170,Alaska,Matanuska-Susitna Borough,107115,10.4
-02180,Alaska,Nome Census Area,10053,22.0
-02185,Alaska,North Slope Borough,9850,11.1
-02188,Alaska,Northwest Arctic Borough,7694,21.1
-02195,Alaska,Petersburg Borough,3244,7.2
-02198,Alaska,Prince of Wales-Hyder Census Area,6360,16.5
-02220,Alaska,Sitka City and Borough,8554,7.7
-02230,Alaska,Skagway Municipality,1169,4.3
-02240,Alaska,Southeast Fairbanks Census Area,6937,13.4
-02261,Alaska,Valdez-Cordova Census Area,9161,9.7
-02275,Alaska,Wrangell City and Borough,2538,11.6
-02282,Alaska,Yakutat City and Borough,596,13.1
-02290,Alaska,Yukon-Koyukuk Census Area,5359,23.7
-04000,Arizona,Arizona,7158024,14.1
-04001,Arizona,Apache County,71731,37.3
-04003,Arizona,Cochise County,126411,15.1
-04005,Arizona,Coconino County,142523,15.9
-04007,Arizona,Gila County,53801,20.4
-04009,Arizona,Graham County,37995,20.2
-04011,Arizona,Greenlee County,9448,10.5
-04012,Arizona,La Paz County,21039,23.7
-04013,Arizona,Maricopa County,4402403,12.3
-04015,Arizona,Mohave County,209292,16.8
-04017,Arizona,Navajo County,110242,28.5
-04019,Arizona,Pima County,1036554,16.2
-04021,Arizona,Pinal County,446806,12.9
-04023,Arizona,Santa Cruz County,46395,24.4
-04025,Arizona,Yavapai County,231772,13.2
-04027,Arizona,Yuma County,211612,19.5
-05000,Arkansas,Arkansas,3009733,16.8
-05001,Arkansas,Arkansas County,17726,17.9
-05003,Arkansas,Ashley County,20012,19.6
-05005,Arkansas,Baxter County,41624,15.1
-05007,Arkansas,Benton County,272266,8.6
-05009,Arkansas,Boone County,37385,14.8
-05011,Arkansas,Bradley County,10838,21.7
-05013,Arkansas,Calhoun County,5227,15.7
-05015,Arkansas,Carroll County,28097,16.1
-05017,Arkansas,Chicot County,10442,31.4
-05019,Arkansas,Clark County,22313,19.9
-05021,Arkansas,Clay County,14763,20.7
-05023,Arkansas,Cleburne County,24994,14.6
-05025,Arkansas,Cleveland County,7995,15.5
-05027,Arkansas,Columbia County,23586,22.4
-05029,Arkansas,Conway County,20825,17.9
-05031,Arkansas,Craighead County,108816,17.9
-05033,Arkansas,Crawford County,63379,16.0
-05035,Arkansas,Crittenden County,48363,19.2
-05037,Arkansas,Cross County,16630,18.0
-05039,Arkansas,Dallas County,7152,21.3
-05041,Arkansas,Desha County,11507,24.3
-05043,Arkansas,Drew County,18328,19.5
-05045,Arkansas,Faulkner County,125138,15.4
-05047,Arkansas,Franklin County,17764,18.3
-05049,Arkansas,Fulton County,12308,20.6
-05051,Arkansas,Garland County,98966,20.4
-05053,Arkansas,Grant County,18180,13.1
-05055,Arkansas,Greene County,45339,16.5
-05057,Arkansas,Hempstead County,21685,20.6
-05059,Arkansas,Hot Spring County,33672,18.7
-05061,Arkansas,Howard County,13302,17.3
-05063,Arkansas,Independence County,37768,14.5
-05065,Arkansas,Izard County,13582,18.7
-05067,Arkansas,Jackson County,16753,25.6
-05069,Arkansas,Jefferson County,68067,22.2
-05071,Arkansas,Johnson County,26659,22.2
-05073,Arkansas,Lafayette County,6679,22.8
-05075,Arkansas,Lawrence County,16432,17.7
-05077,Arkansas,Lee County,8976,43.0
-05079,Arkansas,Lincoln County,13184,27.5
-05081,Arkansas,Little River County,12297,16.0
-05083,Arkansas,Logan County,21673,18.6
-05085,Arkansas,Lonoke County,73391,11.9
-05087,Arkansas,Madison County,16362,18.4
-05089,Arkansas,Marion County,16665,18.7
-05091,Arkansas,Miller County,43362,21.9
-05093,Arkansas,Mississippi County,41236,25.7
-05095,Arkansas,Monroe County,6880,26.0
-05097,Arkansas,Montgomery County,8910,18.8
-05099,Arkansas,Nevada County,8308,21.3
-05101,Arkansas,Newton County,7800,17.4
-05103,Arkansas,Ouachita County,23620,23.3
-05105,Arkansas,Perry County,10380,14.7
-05107,Arkansas,Phillips County,18054,35.4
-05109,Arkansas,Pike County,10666,17.8
-05111,Arkansas,Poinsett County,23903,23.7
-05113,Arkansas,Polk County,20019,20.0
-05115,Arkansas,Pope County,63594,16.0
-05117,Arkansas,Prairie County,8082,15.8
-05119,Arkansas,Pulaski County,391918,16.7
-05121,Arkansas,Randolph County,17970,17.4
-05123,Arkansas,St. Francis County,25509,35.6
-05125,Arkansas,Saline County,121074,9.7
-05127,Arkansas,Scott County,10339,20.2
-05129,Arkansas,Searcy County,7930,24.3
-05131,Arkansas,Sebastian County,127570,15.6
-05133,Arkansas,Sevier County,17061,20.1
-05135,Arkansas,Sharp County,17290,20.7
-05137,Arkansas,Stone County,12454,20.3
-05139,Arkansas,Union County,39139,18.2
-05141,Arkansas,Van Buren County,16635,16.4
-05143,Arkansas,Washington County,236611,15.2
-05145,Arkansas,White County,78381,16.6
-05147,Arkansas,Woodruff County,6466,23.7
-05149,Arkansas,Yell County,21462,16.3
-06000,California,California,39461588,12.8
-06001,California,Alameda County,1666756,9.0
-06003,California,Alpine County,1089,17.3
-06005,California,Amador County,39405,11.8
-06007,California,Butte County,230339,18.5
-06009,California,Calaveras County,45698,12.1
-06011,California,Colusa County,21418,11.0
-06013,California,Contra Costa County,1150519,7.8
-06015,California,Del Norte County,27740,20.4
-06017,California,El Dorado County,190746,8.1
-06019,California,Fresno County,991950,21.3
-06021,California,Glenn County,27967,15.4
-06023,California,Humboldt County,136244,20.3
-06025,California,Imperial County,181523,21.4
-06027,California,Inyo County,17946,12.3
-06029,California,Kern County,893758,20.5
-06031,California,Kings County,151382,18.8
-06033,California,Lake County,64317,18.4
-06035,California,Lassen County,30618,15.8
-06037,California,Los Angeles County,10073906,14.2
-06039,California,Madera County,156882,20.2
-06041,California,Marin County,259662,6.6
-06043,California,Mariposa County,17405,14.9
-06045,California,Mendocino County,87401,17.5
-06047,California,Merced County,274151,21.2
-06049,California,Modoc County,8800,19.1
-06051,California,Mono County,14403,9.3
-06053,California,Monterey County,433950,13.3
-06055,California,Napa County,138789,8.8
-06057,California,Nevada County,99508,10.3
-06059,California,Orange County,3175973,10.5
-06061,California,Placer County,392330,7.1
-06063,California,Plumas County,18741,12.5
-06065,California,Riverside County,2445789,12.7
-06067,California,Sacramento County,1538746,14.3
-06069,California,San Benito County,61467,8.6
-06071,California,San Bernardino County,2166753,14.9
-06073,California,San Diego County,3333861,11.5
-06075,California,San Francisco County,880696,10.1
-06077,California,San Joaquin County,752491,14.3
-06079,California,San Luis Obispo County,283354,12.7
-06081,California,San Mateo County,768681,6.8
-06083,California,Santa Barbara County,445780,12.6
-06085,California,Santa Clara County,1932337,7.3
-06087,California,Santa Cruz County,273841,12.2
-06089,California,Shasta County,179709,15.2
-06091,California,Sierra County,2997,13.3
-06093,California,Siskiyou County,43550,17.1
-06095,California,Solano County,445725,7.9
-06097,California,Sonoma County,498643,9.9
-06099,California,Stanislaus County,548126,15.6
-06101,California,Sutter County,96348,13.5
-06103,California,Tehama County,64018,17.0
-06105,California,Trinity County,12567,21.6
-06107,California,Tulare County,464589,22.2
-06109,California,Tuolumne County,54387,12.5
-06111,California,Ventura County,848142,9.1
-06113,California,Yolo County,220118,20.1
-06115,California,Yuba County,77557,17.2
-08000,Colorado,Colorado,5691287,9.7
-08001,Colorado,Adams County,511354,9.2
-08003,Colorado,Alamosa County,16248,19.1
-08005,Colorado,Arapahoe County,651797,8.1
-08007,Colorado,Archuleta County,13730,11.2
-08009,Colorado,Baca County,3584,19.4
-08011,Colorado,Bent County,5808,33.9
-08013,Colorado,Boulder County,324636,9.7
-08014,Colorado,Broomfield County,69324,4.9
-08015,Colorado,Chaffee County,20041,10.9
-08017,Colorado,Cheyenne County,1859,12.6
-08019,Colorado,Clear Creek County,9604,7.2
-08021,Colorado,Conejos County,8181,21.4
-08023,Colorado,Costilla County,3812,25.2
-08025,Colorado,Crowley County,5957,44.3
-08027,Colorado,Custer County,4934,12.0
-08029,Colorado,Delta County,30884,14.6
-08031,Colorado,Denver County,716265,11.7
-08033,Colorado,Dolores County,2060,12.8
-08035,Colorado,Douglas County,342989,2.6
-08037,Colorado,Eagle County,54943,6.7
-08039,Colorado,Elbert County,26303,5.0
-08041,Colorado,El Paso County,712089,9.9
-08043,Colorado,Fremont County,47959,16.5
-08045,Colorado,Garfield County,59701,8.4
-08047,Colorado,Gilpin County,6112,6.7
-08049,Colorado,Grand County,15511,7.9
-08051,Colorado,Gunnison County,17167,10.4
-08053,Colorado,Hinsdale County,808,8.6
-08055,Colorado,Huerfano County,6887,21.7
-08057,Colorado,Jackson County,1395,13.4
-08059,Colorado,Jefferson County,579392,7.0
-08061,Colorado,Kiowa County,1379,13.8
-08063,Colorado,Kit Carson County,7159,12.6
-08065,Colorado,Lake County,7846,12.6
-08067,Colorado,La Plata County,56299,9.2
-08069,Colorado,Larimer County,350660,10.5
-08071,Colorado,Las Animas County,14508,19.2
-08073,Colorado,Lincoln County,5606,16.2
-08075,Colorado,Logan County,22268,14.5
-08077,Colorado,Mesa County,152951,14.4
-08079,Colorado,Mineral County,772,9.3
-08081,Colorado,Moffat County,13183,12.3
-08083,Colorado,Montezuma County,26152,16.3
-08085,Colorado,Montrose County,42206,11.6
-08087,Colorado,Morgan County,28769,12.2
-08089,Colorado,Otero County,18338,20.8
-08091,Colorado,Ouray County,4822,7.5
-08093,Colorado,Park County,18525,8.1
-08095,Colorado,Phillips County,4285,10.8
-08097,Colorado,Pitkin County,17976,6.8
-08099,Colorado,Prowers County,12079,21.6
-08101,Colorado,Pueblo County,167422,17.2
-08103,Colorado,Rio Blanco County,6330,10.8
-08105,Colorado,Rio Grande County,11271,14.5
-08107,Colorado,Routt County,25507,7.0
-08109,Colorado,Saguache County,6840,24.6
-08111,Colorado,San Juan County,764,14.4
-08113,Colorado,San Miguel County,8180,8.6
-08115,Colorado,Sedgwick County,2276,14.9
-08117,Colorado,Summit County,30817,6.7
-08119,Colorado,Teller County,25113,7.4
-08121,Colorado,Washington County,4888,13.7
-08123,Colorado,Weld County,314815,10.5
-08125,Colorado,Yuma County,9947,12.1
-09000,Connecticut,Connecticut,3571520,10.3
-09001,Connecticut,Fairfield County,943971,10.0
-09003,Connecticut,Hartford County,892580,11.2
-09005,Connecticut,Litchfield County,181095,6.9
-09007,Connecticut,Middlesex County,162870,6.7
-09009,Connecticut,New Haven County,856971,11.6
-09011,Connecticut,New London County,266285,9.8
-09013,Connecticut,Tolland County,150689,8.0
-09015,Connecticut,Windham County,117059,11.7
+1000,Alabama,Alabama,4887681,16.8
+1001,Alabama,Autauga County,55533,13.8
+1003,Alabama,Baldwin County,217855,9.8
+1005,Alabama,Barbour County,24872,30.9
+1007,Alabama,Bibb County,22367,21.8
+1009,Alabama,Blount County,57771,13.2
+1011,Alabama,Bullock County,10174,42.5
+1013,Alabama,Butler County,19631,24.5
+1015,Alabama,Calhoun County,114331,19.5
+1017,Alabama,Chambers County,33600,18.7
+1019,Alabama,Cherokee County,26014,16.3
+1021,Alabama,Chilton County,44163,17.3
+1023,Alabama,Choctaw County,12833,22.1
+1025,Alabama,Clarke County,23918,22.8
+1027,Alabama,Clay County,13294,17.6
+1029,Alabama,Cleburne County,15010,16
+1031,Alabama,Coffee County,51950,13.8
+1033,Alabama,Colbert County,55004,13.8
+1035,Alabama,Conecuh County,12292,24.4
+1037,Alabama,Coosa County,10643,18.9
+1039,Alabama,Covington County,36953,19.9
+1041,Alabama,Crenshaw County,13825,19.5
+1043,Alabama,Cullman County,83418,14.5
+1045,Alabama,Dale County,49143,16.2
+1047,Alabama,Dallas County,38294,31.4
+1049,Alabama,DeKalb County,71407,21.3
+1051,Alabama,Elmore County,81011,11.2
+1053,Alabama,Escambia County,36524,23.6
+1055,Alabama,Etowah County,102611,17.5
+1057,Alabama,Fayette County,16445,23.5
+1059,Alabama,Franklin County,31298,19.2
+1061,Alabama,Geneva County,26306,21.3
+1063,Alabama,Greene County,8209,30.1
+1065,Alabama,Hale County,14749,25.6
+1067,Alabama,Henry County,17173,17.9
+1069,Alabama,Houston County,104770,16.5
+1071,Alabama,Jackson County,51621,19.7
+1073,Alabama,Jefferson County,659429,16.1
+1075,Alabama,Lamar County,13882,17.4
+1077,Alabama,Lauderdale County,92604,14
+1079,Alabama,Lawrence County,32941,19.3
+1081,Alabama,Lee County,163656,19
+1083,Alabama,Limestone County,96177,11.4
+1085,Alabama,Lowndes County,9974,25.1
+1087,Alabama,Macon County,18321,30.2
+1089,Alabama,Madison County,367004,11.9
+1091,Alabama,Marengo County,19056,24
+1093,Alabama,Marion County,29750,20.2
+1095,Alabama,Marshall County,96170,18.3
+1097,Alabama,Mobile County,413908,20.8
+1099,Alabama,Monroe County,21062,21.9
+1101,Alabama,Montgomery County,226504,20.1
+1103,Alabama,Morgan County,119203,13.2
+1105,Alabama,Perry County,9070,35.3
+1107,Alabama,Pickens County,19980,23.1
+1109,Alabama,Pike County,33242,23.6
+1111,Alabama,Randolph County,22727,19.7
+1113,Alabama,Russell County,57784,21.7
+1115,Alabama,St. Clair County,88654,12
+1117,Alabama,Shelby County,215583,8
+1119,Alabama,Sumter County,12634,34.7
+1121,Alabama,Talladega County,80137,19.3
+1123,Alabama,Tallapoosa County,40535,19.7
+1125,Alabama,Tuscaloosa County,208319,16.8
+1127,Alabama,Walker County,63669,17.9
+1129,Alabama,Washington County,16402,17.6
+1131,Alabama,Wilcox County,10599,33.4
+1133,Alabama,Winston County,23693,18.6
+2000,Alaska,Alaska,735139,11.1
+2013,Alaska,Aleutians East Borough,3395,15.5
+2016,Alaska,Aleutians West Census Area,5640,10
+2020,Alaska,Anchorage Municipality,290521,9.5
+2050,Alaska,Bethel Census Area,18219,32.7
+2060,Alaska,Bristol Bay Borough,880,11.2
+2068,Alaska,Denali Borough,2032,6.9
+2070,Alaska,Dillingham Census Area,4991,22
+2090,Alaska,Fairbanks North Star Borough,98565,8.6
+2100,Alaska,Haines Borough,2488,10.5
+2105,Alaska,Hoonah-Angoon Census Area,2155,17.2
+2110,Alaska,Juneau City and Borough,32037,7.3
+2122,Alaska,Kenai Peninsula Borough,58561,12.4
+2130,Alaska,Ketchikan Gateway Borough,13856,9.1
+2150,Alaska,Kodiak Island Borough,13250,8.2
+2158,Alaska,Kusilvak Census Area,8323,35.1
+2164,Alaska,Lake and Peninsula Borough,1596,18.2
+2170,Alaska,Matanuska-Susitna Borough,107115,10.4
+2180,Alaska,Nome Census Area,10053,22
+2185,Alaska,North Slope Borough,9850,11.1
+2188,Alaska,Northwest Arctic Borough,7694,21.1
+2195,Alaska,Petersburg Borough,3244,7.2
+2198,Alaska,Prince of Wales-Hyder Census Area,6360,16.5
+2220,Alaska,Sitka City and Borough,8554,7.7
+2230,Alaska,Skagway Municipality,1169,4.3
+2240,Alaska,Southeast Fairbanks Census Area,6937,13.4
+2261,Alaska,Valdez-Cordova Census Area,9161,9.7
+2275,Alaska,Wrangell City and Borough,2538,11.6
+2282,Alaska,Yakutat City and Borough,596,13.1
+2290,Alaska,Yukon-Koyukuk Census Area,5359,23.7
+4000,Arizona,Arizona,7158024,14.1
+4001,Arizona,Apache County,71731,37.3
+4003,Arizona,Cochise County,126411,15.1
+4005,Arizona,Coconino County,142523,15.9
+4007,Arizona,Gila County,53801,20.4
+4009,Arizona,Graham County,37995,20.2
+4011,Arizona,Greenlee County,9448,10.5
+4012,Arizona,La Paz County,21039,23.7
+4013,Arizona,Maricopa County,4402403,12.3
+4015,Arizona,Mohave County,209292,16.8
+4017,Arizona,Navajo County,110242,28.5
+4019,Arizona,Pima County,1036554,16.2
+4021,Arizona,Pinal County,446806,12.9
+4023,Arizona,Santa Cruz County,46395,24.4
+4025,Arizona,Yavapai County,231772,13.2
+4027,Arizona,Yuma County,211612,19.5
+5000,Arkansas,Arkansas,3009733,16.8
+5001,Arkansas,Arkansas County,17726,17.9
+5003,Arkansas,Ashley County,20012,19.6
+5005,Arkansas,Baxter County,41624,15.1
+5007,Arkansas,Benton County,272266,8.6
+5009,Arkansas,Boone County,37385,14.8
+5011,Arkansas,Bradley County,10838,21.7
+5013,Arkansas,Calhoun County,5227,15.7
+5015,Arkansas,Carroll County,28097,16.1
+5017,Arkansas,Chicot County,10442,31.4
+5019,Arkansas,Clark County,22313,19.9
+5021,Arkansas,Clay County,14763,20.7
+5023,Arkansas,Cleburne County,24994,14.6
+5025,Arkansas,Cleveland County,7995,15.5
+5027,Arkansas,Columbia County,23586,22.4
+5029,Arkansas,Conway County,20825,17.9
+5031,Arkansas,Craighead County,108816,17.9
+5033,Arkansas,Crawford County,63379,16
+5035,Arkansas,Crittenden County,48363,19.2
+5037,Arkansas,Cross County,16630,18
+5039,Arkansas,Dallas County,7152,21.3
+5041,Arkansas,Desha County,11507,24.3
+5043,Arkansas,Drew County,18328,19.5
+5045,Arkansas,Faulkner County,125138,15.4
+5047,Arkansas,Franklin County,17764,18.3
+5049,Arkansas,Fulton County,12308,20.6
+5051,Arkansas,Garland County,98966,20.4
+5053,Arkansas,Grant County,18180,13.1
+5055,Arkansas,Greene County,45339,16.5
+5057,Arkansas,Hempstead County,21685,20.6
+5059,Arkansas,Hot Spring County,33672,18.7
+5061,Arkansas,Howard County,13302,17.3
+5063,Arkansas,Independence County,37768,14.5
+5065,Arkansas,Izard County,13582,18.7
+5067,Arkansas,Jackson County,16753,25.6
+5069,Arkansas,Jefferson County,68067,22.2
+5071,Arkansas,Johnson County,26659,22.2
+5073,Arkansas,Lafayette County,6679,22.8
+5075,Arkansas,Lawrence County,16432,17.7
+5077,Arkansas,Lee County,8976,43
+5079,Arkansas,Lincoln County,13184,27.5
+5081,Arkansas,Little River County,12297,16
+5083,Arkansas,Logan County,21673,18.6
+5085,Arkansas,Lonoke County,73391,11.9
+5087,Arkansas,Madison County,16362,18.4
+5089,Arkansas,Marion County,16665,18.7
+5091,Arkansas,Miller County,43362,21.9
+5093,Arkansas,Mississippi County,41236,25.7
+5095,Arkansas,Monroe County,6880,26
+5097,Arkansas,Montgomery County,8910,18.8
+5099,Arkansas,Nevada County,8308,21.3
+5101,Arkansas,Newton County,7800,17.4
+5103,Arkansas,Ouachita County,23620,23.3
+5105,Arkansas,Perry County,10380,14.7
+5107,Arkansas,Phillips County,18054,35.4
+5109,Arkansas,Pike County,10666,17.8
+5111,Arkansas,Poinsett County,23903,23.7
+5113,Arkansas,Polk County,20019,20
+5115,Arkansas,Pope County,63594,16
+5117,Arkansas,Prairie County,8082,15.8
+5119,Arkansas,Pulaski County,391918,16.7
+5121,Arkansas,Randolph County,17970,17.4
+5123,Arkansas,St. Francis County,25509,35.6
+5125,Arkansas,Saline County,121074,9.7
+5127,Arkansas,Scott County,10339,20.2
+5129,Arkansas,Searcy County,7930,24.3
+5131,Arkansas,Sebastian County,127570,15.6
+5133,Arkansas,Sevier County,17061,20.1
+5135,Arkansas,Sharp County,17290,20.7
+5137,Arkansas,Stone County,12454,20.3
+5139,Arkansas,Union County,39139,18.2
+5141,Arkansas,Van Buren County,16635,16.4
+5143,Arkansas,Washington County,236611,15.2
+5145,Arkansas,White County,78381,16.6
+5147,Arkansas,Woodruff County,6466,23.7
+5149,Arkansas,Yell County,21462,16.3
+6000,California,California,39461588,12.8
+6001,California,Alameda County,1666756,9
+6003,California,Alpine County,1089,17.3
+6005,California,Amador County,39405,11.8
+6007,California,Butte County,230339,18.5
+6009,California,Calaveras County,45698,12.1
+6011,California,Colusa County,21418,11
+6013,California,Contra Costa County,1150519,7.8
+6015,California,Del Norte County,27740,20.4
+6017,California,El Dorado County,190746,8.1
+6019,California,Fresno County,991950,21.3
+6021,California,Glenn County,27967,15.4
+6023,California,Humboldt County,136244,20.3
+6025,California,Imperial County,181523,21.4
+6027,California,Inyo County,17946,12.3
+6029,California,Kern County,893758,20.5
+6031,California,Kings County,151382,18.8
+6033,California,Lake County,64317,18.4
+6035,California,Lassen County,30618,15.8
+6037,California,Los Angeles County,10073906,14.2
+6039,California,Madera County,156882,20.2
+6041,California,Marin County,259662,6.6
+6043,California,Mariposa County,17405,14.9
+6045,California,Mendocino County,87401,17.5
+6047,California,Merced County,274151,21.2
+6049,California,Modoc County,8800,19.1
+6051,California,Mono County,14403,9.3
+6053,California,Monterey County,433950,13.3
+6055,California,Napa County,138789,8.8
+6057,California,Nevada County,99508,10.3
+6059,California,Orange County,3175973,10.5
+6061,California,Placer County,392330,7.1
+6063,California,Plumas County,18741,12.5
+6065,California,Riverside County,2445789,12.7
+6067,California,Sacramento County,1538746,14.3
+6069,California,San Benito County,61467,8.6
+6071,California,San Bernardino County,2166753,14.9
+6073,California,San Diego County,3333861,11.5
+6075,California,San Francisco County,880696,10.1
+6077,California,San Joaquin County,752491,14.3
+6079,California,San Luis Obispo County,283354,12.7
+6081,California,San Mateo County,768681,6.8
+6083,California,Santa Barbara County,445780,12.6
+6085,California,Santa Clara County,1932337,7.3
+6087,California,Santa Cruz County,273841,12.2
+6089,California,Shasta County,179709,15.2
+6091,California,Sierra County,2997,13.3
+6093,California,Siskiyou County,43550,17.1
+6095,California,Solano County,445725,7.9
+6097,California,Sonoma County,498643,9.9
+6099,California,Stanislaus County,548126,15.6
+6101,California,Sutter County,96348,13.5
+6103,California,Tehama County,64018,17
+6105,California,Trinity County,12567,21.6
+6107,California,Tulare County,464589,22.2
+6109,California,Tuolumne County,54387,12.5
+6111,California,Ventura County,848142,9.1
+6113,California,Yolo County,220118,20.1
+6115,California,Yuba County,77557,17.2
+8000,Colorado,Colorado,5691287,9.7
+8001,Colorado,Adams County,511354,9.2
+8003,Colorado,Alamosa County,16248,19.1
+8005,Colorado,Arapahoe County,651797,8.1
+8007,Colorado,Archuleta County,13730,11.2
+8009,Colorado,Baca County,3584,19.4
+8011,Colorado,Bent County,5808,33.9
+8013,Colorado,Boulder County,324636,9.7
+8014,Colorado,Broomfield County,69324,4.9
+8015,Colorado,Chaffee County,20041,10.9
+8017,Colorado,Cheyenne County,1859,12.6
+8019,Colorado,Clear Creek County,9604,7.2
+8021,Colorado,Conejos County,8181,21.4
+8023,Colorado,Costilla County,3812,25.2
+8025,Colorado,Crowley County,5957,44.3
+8027,Colorado,Custer County,4934,12
+8029,Colorado,Delta County,30884,14.6
+8031,Colorado,Denver County,716265,11.7
+8033,Colorado,Dolores County,2060,12.8
+8035,Colorado,Douglas County,342989,2.6
+8037,Colorado,Eagle County,54943,6.7
+8039,Colorado,Elbert County,26303,5
+8041,Colorado,El Paso County,712089,9.9
+8043,Colorado,Fremont County,47959,16.5
+8045,Colorado,Garfield County,59701,8.4
+8047,Colorado,Gilpin County,6112,6.7
+8049,Colorado,Grand County,15511,7.9
+8051,Colorado,Gunnison County,17167,10.4
+8053,Colorado,Hinsdale County,808,8.6
+8055,Colorado,Huerfano County,6887,21.7
+8057,Colorado,Jackson County,1395,13.4
+8059,Colorado,Jefferson County,579392,7
+8061,Colorado,Kiowa County,1379,13.8
+8063,Colorado,Kit Carson County,7159,12.6
+8065,Colorado,Lake County,7846,12.6
+8067,Colorado,La Plata County,56299,9.2
+8069,Colorado,Larimer County,350660,10.5
+8071,Colorado,Las Animas County,14508,19.2
+8073,Colorado,Lincoln County,5606,16.2
+8075,Colorado,Logan County,22268,14.5
+8077,Colorado,Mesa County,152951,14.4
+8079,Colorado,Mineral County,772,9.3
+8081,Colorado,Moffat County,13183,12.3
+8083,Colorado,Montezuma County,26152,16.3
+8085,Colorado,Montrose County,42206,11.6
+8087,Colorado,Morgan County,28769,12.2
+8089,Colorado,Otero County,18338,20.8
+8091,Colorado,Ouray County,4822,7.5
+8093,Colorado,Park County,18525,8.1
+8095,Colorado,Phillips County,4285,10.8
+8097,Colorado,Pitkin County,17976,6.8
+8099,Colorado,Prowers County,12079,21.6
+8101,Colorado,Pueblo County,167422,17.2
+8103,Colorado,Rio Blanco County,6330,10.8
+8105,Colorado,Rio Grande County,11271,14.5
+8107,Colorado,Routt County,25507,7
+8109,Colorado,Saguache County,6840,24.6
+8111,Colorado,San Juan County,764,14.4
+8113,Colorado,San Miguel County,8180,8.6
+8115,Colorado,Sedgwick County,2276,14.9
+8117,Colorado,Summit County,30817,6.7
+8119,Colorado,Teller County,25113,7.4
+8121,Colorado,Washington County,4888,13.7
+8123,Colorado,Weld County,314815,10.5
+8125,Colorado,Yuma County,9947,12.1
+9000,Connecticut,Connecticut,3571520,10.3
+9001,Connecticut,Fairfield County,943971,10
+9003,Connecticut,Hartford County,892580,11.2
+9005,Connecticut,Litchfield County,181095,6.9
+9007,Connecticut,Middlesex County,162870,6.7
+9009,Connecticut,New Haven County,856971,11.6
+9011,Connecticut,New London County,266285,9.8
+9013,Connecticut,Tolland County,150689,8
+9015,Connecticut,Windham County,117059,11.7
 10000,Delaware,Delaware,965479,12.2
 10001,Delaware,Kent County,178540,13.8
 10003,Delaware,New Castle County,557550,11.6
@@ -333,7 +333,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 12003,Florida,Baker County,28353,15.4
 12005,Florida,Bay County,186240,13.4
 12007,Florida,Bradford County,27752,19.5
-12009,Florida,Brevard County,595203,11.0
+12009,Florida,Brevard County,595203,11
 12011,Florida,Broward County,1946107,12.6
 12013,Florida,Calhoun County,14543,21.3
 12015,Florida,Charlotte County,184849,11.1
@@ -352,8 +352,8 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 12043,Florida,Glades County,13686,20.1
 12045,Florida,Gulf County,16146,20.3
 12047,Florida,Hamilton County,14262,27.6
-12049,Florida,Hardee County,27168,27.0
-12051,Florida,Hendry County,41336,24.0
+12049,Florida,Hardee County,27168,27
+12051,Florida,Hendry County,41336,24
 12053,Florida,Hernando County,190582,14.1
 12055,Florida,Highlands County,104933,20.8
 12057,Florida,Hillsborough County,1451919,14.7
@@ -361,7 +361,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 12061,Florida,Indian River County,157187,10.7
 12063,Florida,Jackson County,48112,23.5
 12065,Florida,Jefferson County,14321,17.9
-12067,Florida,Lafayette County,8691,21.0
+12067,Florida,Lafayette County,8691,21
 12069,Florida,Lake County,356720,11.5
 12071,Florida,Lee County,754470,12.1
 12073,Florida,Leon County,291657,20.7
@@ -371,8 +371,8 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 12081,Florida,Manatee County,394387,10.4
 12083,Florida,Marion County,359062,15.1
 12085,Florida,Martin County,160742,10.7
-12086,Florida,Miami-Dade County,2714854,16.0
-12087,Florida,Monroe County,74757,12.0
+12086,Florida,Miami-Dade County,2714854,16
+12087,Florida,Monroe County,74757,12
 12089,Florida,Nassau County,85936,10.4
 12091,Florida,Okaloosa County,206934,12.7
 12093,Florida,Okeechobee County,41654,21.5
@@ -402,7 +402,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 13005,Georgia,Bacon County,11132,22.8
 13007,Georgia,Baker County,3086,22.9
 13009,Georgia,Baldwin County,44893,23.8
-13011,Georgia,Banks County,18972,13.0
+13011,Georgia,Banks County,18972,13
 13013,Georgia,Barrow County,80834,9.5
 13015,Georgia,Bartow County,106378,12.2
 13017,Georgia,Ben Hill County,16822,26.2
@@ -413,7 +413,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 13027,Georgia,Brooks County,15479,24.5
 13029,Georgia,Bryan County,38059,8.6
 13031,Georgia,Bulloch County,77242,22.9
-13033,Georgia,Burke County,22439,22.0
+13033,Georgia,Burke County,22439,22
 13035,Georgia,Butts County,24192,19.7
 13037,Georgia,Calhoun County,6353,37.2
 13039,Georgia,Camden County,53651,15.8
@@ -425,7 +425,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 13053,Georgia,Chattahoochee County,10600,17.3
 13055,Georgia,Chattooga County,24782,19.5
 13057,Georgia,Cherokee County,253914,7.4
-13059,Georgia,Clarke County,127268,27.0
+13059,Georgia,Clarke County,127268,27
 13061,Georgia,Clay County,2884,29.8
 13063,Georgia,Clayton County,289197,17.6
 13065,Georgia,Clinch County,6603,25.8
@@ -452,16 +452,16 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 13107,Georgia,Emanuel County,22607,25.1
 13109,Georgia,Evans County,10702,26.6
 13111,Georgia,Fannin County,25981,16.8
-13113,Georgia,Fayette County,113181,5.0
+13113,Georgia,Fayette County,113181,5
 13115,Georgia,Floyd County,97964,20.7
-13117,Georgia,Forsyth County,236993,5.0
+13117,Georgia,Forsyth County,236993,5
 13119,Georgia,Franklin County,23034,16.4
 13121,Georgia,Fulton County,1050131,13.5
 13123,Georgia,Gilmer County,30835,17.4
 13125,Georgia,Glascock County,2977,17.5
 13127,Georgia,Glynn County,84975,16.6
 13129,Georgia,Gordon County,57628,16.8
-13131,Georgia,Grady County,24774,20.0
+13131,Georgia,Grady County,24774,20
 13133,Georgia,Greene County,17733,19.3
 13135,Georgia,Gwinnett County,927337,9.2
 13137,Georgia,Habersham County,45373,14.9
@@ -469,7 +469,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 13141,Georgia,Hancock County,8368,30.7
 13143,Georgia,Haralson County,29561,15.9
 13145,Georgia,Harris County,34560,8.7
-13147,Georgia,Hart County,26071,15.0
+13147,Georgia,Hart County,26071,15
 13149,Georgia,Heard County,11871,17.1
 13151,Georgia,Henry County,229728,7.5
 13153,Georgia,Houston County,155523,12.1
@@ -479,7 +479,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 13161,Georgia,Jeff Davis County,15048,20.6
 13163,Georgia,Jefferson County,15424,22.3
 13165,Georgia,Jenkins County,8765,31.8
-13167,Georgia,Johnson County,9706,30.0
+13167,Georgia,Johnson County,9706,30
 13169,Georgia,Jones County,28680,14.5
 13171,Georgia,Lamar County,18961,17.3
 13173,Georgia,Lanier County,10355,20.3
@@ -498,7 +498,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 13199,Georgia,Meriwether County,21094,24.4
 13201,Georgia,Miller County,5684,22.4
 13205,Georgia,Mitchell County,22135,29.3
-13207,Georgia,Monroe County,27503,13.0
+13207,Georgia,Monroe County,27503,13
 13209,Georgia,Montgomery County,9168,22.1
 13211,Georgia,Morgan County,18831,12.7
 13213,Georgia,Murray County,39943,15.2
@@ -507,8 +507,8 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 13219,Georgia,Oconee County,39478,5.7
 13221,Georgia,Oglethorpe County,15080,13.8
 13223,Georgia,Paulding County,164053,7.8
-13225,Georgia,Peach County,27363,24.0
-13227,Georgia,Pickens County,32014,11.0
+13225,Georgia,Peach County,27363,24
+13227,Georgia,Pickens County,32014,11
 13229,Georgia,Pierce County,19388,18.1
 13231,Georgia,Pike County,18647,10.6
 13233,Georgia,Polk County,42346,21.8
@@ -535,7 +535,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 13275,Georgia,Thomas County,44334,20.2
 13277,Georgia,Tift County,40542,19.6
 13279,Georgia,Toombs County,26902,24.9
-13281,Georgia,Towns County,11866,16.0
+13281,Georgia,Towns County,11866,16
 13283,Georgia,Treutlen County,6813,26.3
 13285,Georgia,Troup County,70078,20.2
 13287,Georgia,Turner County,7908,27.9
@@ -556,10 +556,10 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 13317,Georgia,Wilkes County,9864,20.3
 13319,Georgia,Wilkinson County,9043,23.3
 13321,Georgia,Worth County,20302,20.5
-15000,Hawaii,Hawaii,1420593,9.0
+15000,Hawaii,Hawaii,1420593,9
 15001,Hawaii,Hawaii County,201509,15.6
 15003,Hawaii,Honolulu County,979858,7.7
-15005,Hawaii,Kalawao County,86,.
+15005,Hawaii,Kalawao County,86,0
 15007,Hawaii,Kauai County,72168,8.5
 15009,Hawaii,Maui County,166972,8.6
 16000,Idaho,Idaho,1750536,11.7
@@ -568,8 +568,8 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 16005,Idaho,Bannock County,86674,13.8
 16007,Idaho,Bear Lake County,6044,10.7
 16009,Idaho,Benewah County,9218,14.7
-16011,Idaho,Bingham County,46129,12.0
-16013,Idaho,Blaine County,22771,7.0
+16011,Idaho,Bingham County,46129,12
+16013,Idaho,Blaine County,22771,7
 16015,Idaho,Boise County,7655,12.8
 16017,Idaho,Bonner County,44705,14.1
 16019,Idaho,Bonneville County,116444,10.6
@@ -578,7 +578,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 16025,Idaho,Camas County,1121,9.7
 16027,Idaho,Canyon County,223236,11.5
 16029,Idaho,Caribou County,7037,8.9
-16031,Idaho,Cassia County,23791,13.0
+16031,Idaho,Cassia County,23791,13
 16033,Idaho,Clark County,851,15.5
 16035,Idaho,Clearwater County,8758,15.5
 16037,Idaho,Custer County,4250,14.7
@@ -614,20 +614,20 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 17007,Illinois,Boone County,53480,9.2
 17009,Illinois,Brown County,6563,14.8
 17011,Illinois,Bureau County,32959,11.6
-17013,Illinois,Calhoun County,4829,11.0
+17013,Illinois,Calhoun County,4829,11
 17015,Illinois,Carroll County,14314,11.4
-17017,Illinois,Cass County,12312,12.0
+17017,Illinois,Cass County,12312,12
 17019,Illinois,Champaign County,209918,19.2
 17021,Illinois,Christian County,32653,12.5
 17023,Illinois,Clark County,15600,11.1
 17025,Illinois,Clay County,13266,14.3
 17027,Illinois,Clinton County,37697,8.2
-17029,Illinois,Coles County,50829,20.0
+17029,Illinois,Coles County,50829,20
 17031,Illinois,Cook County,5171960,13.8
 17033,Illinois,Crawford County,18830,11.8
 17035,Illinois,Cumberland County,10804,11.7
 17037,Illinois,DeKalb County,104349,13.1
-17039,Illinois,De Witt County,15794,11.0
+17039,Illinois,De Witt County,15794,11
 17041,Illinois,Douglas County,19458,9.2
 17043,Illinois,DuPage County,927247,6.6
 17045,Illinois,Edgar County,17360,13.5
@@ -642,7 +642,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 17063,Illinois,Grundy County,50973,5.9
 17065,Illinois,Hamilton County,8148,12.3
 17067,Illinois,Hancock County,17828,11.1
-17069,Illinois,Hardin County,3893,20.0
+17069,Illinois,Hardin County,3893,20
 17071,Illinois,Henderson County,6697,11.3
 17073,Illinois,Henry County,49069,11.5
 17075,Illinois,Iroquois County,27484,9.9
@@ -656,7 +656,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 17091,Illinois,Kankakee County,109953,16.2
 17093,Illinois,Kendall County,127717,4.2
 17095,Illinois,Knox County,49978,16.4
-17097,Illinois,Lake County,699587,8.0
+17097,Illinois,Lake County,699587,8
 17099,Illinois,LaSalle County,109159,13.6
 17101,Illinois,Lawrence County,15813,17.5
 17103,Illinois,Lee County,34296,10.1
@@ -672,8 +672,8 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 17123,Illinois,Marshall County,11483,9.5
 17125,Illinois,Mason County,13533,14.6
 17127,Illinois,Massac County,14023,17.2
-17129,Illinois,Menard County,12289,9.0
-17131,Illinois,Mercer County,15551,9.0
+17129,Illinois,Menard County,12289,9
+17131,Illinois,Mercer County,15551,9
 17133,Illinois,Monroe County,34373,4.3
 17135,Illinois,Montgomery County,28691,14.4
 17137,Illinois,Morgan County,34027,15.2
@@ -687,7 +687,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 17153,Illinois,Pulaski County,5434,19.7
 17155,Illinois,Putnam County,5736,8.5
 17157,Illinois,Randolph County,32177,13.8
-17159,Illinois,Richland County,15695,15.0
+17159,Illinois,Richland County,15695,15
 17161,Illinois,Rock Island County,142621,14.2
 17163,Illinois,St. Clair County,261360,14.8
 17165,Illinois,Saline County,23789,20.3
@@ -710,7 +710,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 17199,Illinois,Williamson County,66982,14.4
 17201,Illinois,Winnebago County,283630,16.1
 17203,Illinois,Woodford County,38527,7.1
-18000,Indiana,Indiana,6695497,13.0
+18000,Indiana,Indiana,6695497,13
 18001,Indiana,Adams County,35595,11.6
 18003,Indiana,Allen County,375079,13.5
 18005,Indiana,Bartholomew County,82722,10.1
@@ -738,7 +738,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 18049,Indiana,Fulton County,20053,13.6
 18051,Indiana,Gibson County,33610,10.6
 18053,Indiana,Grant County,66039,19.9
-18055,Indiana,Greene County,32059,14.0
+18055,Indiana,Greene County,32059,14
 18057,Indiana,Hamilton County,330311,4.2
 18059,Indiana,Hancock County,76478,5.6
 18061,Indiana,Harrison County,40214,9.3
@@ -746,19 +746,19 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 18065,Indiana,Henry County,48131,14.4
 18067,Indiana,Howard County,82257,12.3
 18069,Indiana,Huntington County,36243,10.1
-18071,Indiana,Jackson County,44068,12.0
+18071,Indiana,Jackson County,44068,12
 18073,Indiana,Jasper County,33365,9.4
-18075,Indiana,Jay County,20727,13.0
+18075,Indiana,Jay County,20727,13
 18077,Indiana,Jefferson County,32157,15.5
 18079,Indiana,Jennings County,27679,14.8
 18081,Indiana,Johnson County,156093,7.7
 18083,Indiana,Knox County,36596,15.7
-18085,Indiana,Kosciusko County,79416,9.0
+18085,Indiana,Kosciusko County,79416,9
 18087,Indiana,LaGrange County,39375,7.8
 18089,Indiana,Lake County,484440,15.7
 18091,Indiana,LaPorte County,109981,15.7
 18093,Indiana,Lawrence County,45630,12.5
-18095,Indiana,Madison County,129573,17.0
+18095,Indiana,Madison County,129573,17
 18097,Indiana,Marion County,958700,17.2
 18099,Indiana,Marshall County,46296,11.5
 18101,Indiana,Martin County,10219,11.8
@@ -785,8 +785,8 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 18143,Indiana,Scott County,23784,15.5
 18145,Indiana,Shelby County,44522,11.6
 18147,Indiana,Spencer County,20385,9.2
-18149,Indiana,Starke County,22951,11.0
-18151,Indiana,Steuben County,34487,11.0
+18149,Indiana,Starke County,22951,11
+18151,Indiana,Steuben County,34487,11
 18153,Indiana,Sullivan County,20696,13.7
 18155,Indiana,Switzerland County,10731,17.7
 18157,Indiana,Tippecanoe County,193817,18.1
@@ -799,7 +799,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 18171,Indiana,Warren County,8280,9.8
 18173,Indiana,Warrick County,62474,7.1
 18175,Indiana,Washington County,27932,13.4
-18177,Indiana,Wayne County,66046,16.0
+18177,Indiana,Wayne County,66046,16
 18179,Indiana,Wells County,28083,8.5
 18181,Indiana,White County,24133,8.5
 18183,Indiana,Whitley County,34047,7.1
@@ -808,16 +808,16 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 19003,Iowa,Adams County,3644,12.7
 19005,Iowa,Allamakee County,13852,11.7
 19007,Iowa,Appanoose County,12401,15.2
-19009,Iowa,Audubon County,5471,11.0
+19009,Iowa,Audubon County,5471,11
 19011,Iowa,Benton County,25625,7.9
 19013,Iowa,Black Hawk County,131723,16.3
 19015,Iowa,Boone County,26312,8.8
 19017,Iowa,Bremer County,24941,6.6
 19019,Iowa,Buchanan County,21178,10.6
 19021,Iowa,Buena Vista County,19826,10.2
-19023,Iowa,Butler County,14525,9.0
+19023,Iowa,Butler County,14525,9
 19025,Iowa,Calhoun County,9711,11.3
-19027,Iowa,Carroll County,20153,8.0
+19027,Iowa,Carroll County,20153,8
 19029,Iowa,Cass County,12948,12.6
 19031,Iowa,Cedar County,18564,7.6
 19033,Iowa,Cerro Gordo County,42642,10.4
@@ -831,7 +831,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 19049,Iowa,Dallas County,89953,5.2
 19051,Iowa,Davis County,8972,12.7
 19053,Iowa,Decatur County,7890,20.3
-19055,Iowa,Delaware County,17081,9.0
+19055,Iowa,Delaware County,17081,9
 19057,Iowa,Des Moines County,39149,12.7
 19059,Iowa,Dickinson County,17121,7.8
 19061,Iowa,Dubuque County,96922,11.3
@@ -839,7 +839,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 19065,Iowa,Fayette County,19679,11.7
 19067,Iowa,Floyd County,15752,11.4
 19069,Iowa,Franklin County,10085,9.9
-19071,Iowa,Fremont County,6981,10.0
+19071,Iowa,Fremont County,6981,10
 19073,Iowa,Greene County,8965,12.1
 19075,Iowa,Grundy County,12272,6.8
 19077,Iowa,Guthrie County,10720,11.4
@@ -847,7 +847,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 19081,Iowa,Hancock County,10710,8.5
 19083,Iowa,Hardin County,16937,9.9
 19085,Iowa,Harrison County,14105,9.7
-19087,Iowa,Henry County,20033,11.0
+19087,Iowa,Henry County,20033,11
 19089,Iowa,Howard County,9172,10.2
 19091,Iowa,Humboldt County,9559,9.7
 19093,Iowa,Ida County,6846,10.3
@@ -864,7 +864,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 19115,Iowa,Louisa County,11153,10.7
 19117,Iowa,Lucas County,8617,15.1
 19119,Iowa,Lyon County,11815,6.9
-19121,Iowa,Madison County,16206,7.0
+19121,Iowa,Madison County,16206,7
 19123,Iowa,Mahaska County,22018,12.4
 19125,Iowa,Marion County,33259,9.2
 19127,Iowa,Marshall County,39888,11.3
@@ -896,7 +896,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 19179,Iowa,Wapello County,34991,14.7
 19181,Iowa,Warren County,51014,7.1
 19183,Iowa,Washington County,22058,8.8
-19185,Iowa,Wayne County,6405,13.0
+19185,Iowa,Wayne County,6405,13
 19187,Iowa,Webster County,36339,13.7
 19189,Iowa,Winnebago County,10539,9.1
 19191,Iowa,Winneshiek County,20017,9.8
@@ -909,7 +909,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 20005,Kansas,Atchison County,16173,15.5
 20007,Kansas,Barber County,4465,12.8
 20009,Kansas,Barton County,26057,14.5
-20011,Kansas,Bourbon County,14542,16.0
+20011,Kansas,Bourbon County,14542,16
 20013,Kansas,Brown County,9610,13.3
 20015,Kansas,Butler County,66833,9.6
 20017,Kansas,Chase County,2600,10.3
@@ -918,7 +918,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 20023,Kansas,Cheyenne County,2645,12.4
 20025,Kansas,Clark County,1994,13.1
 20027,Kansas,Clay County,8003,10.7
-20029,Kansas,Cloud County,8734,16.0
+20029,Kansas,Cloud County,8734,16
 20031,Kansas,Coffey County,8232,10.7
 20033,Kansas,Comanche County,1736,11.2
 20035,Kansas,Cowley County,35149,15.4
@@ -926,10 +926,10 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 20039,Kansas,Decatur County,2860,13.6
 20041,Kansas,Dickinson County,18682,10.9
 20043,Kansas,Doniphan County,7658,13.3
-20045,Kansas,Douglas County,121109,17.0
+20045,Kansas,Douglas County,121109,17
 20047,Kansas,Edwards County,2820,11.3
 20049,Kansas,Elk County,2484,17.7
-20051,Kansas,Ellis County,28646,12.0
+20051,Kansas,Ellis County,28646,12
 20053,Kansas,Ellsworth County,6163,11.9
 20055,Kansas,Finney County,36528,13.2
 20057,Kansas,Ford County,33877,11.6
@@ -948,12 +948,12 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 20083,Kansas,Hodgeman County,1822,11.7
 20085,Kansas,Jackson County,13270,10.5
 20087,Kansas,Jefferson County,18856,7.6
-20089,Kansas,Jewell County,2845,15.0
+20089,Kansas,Jewell County,2845,15
 20091,Kansas,Johnson County,598127,5.5
 20093,Kansas,Kearny County,3941,12.4
 20095,Kansas,Kingman County,7220,11.1
 20097,Kansas,Kiowa County,2489,12.1
-20099,Kansas,Labette County,19906,16.0
+20099,Kansas,Labette County,19906,16
 20101,Kansas,Lane County,1546,10.3
 20103,Kansas,Leavenworth County,81497,10.6
 20105,Kansas,Lincoln County,2998,12.7
@@ -978,17 +978,17 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 20143,Kansas,Ottawa County,5752,10.2
 20145,Kansas,Pawnee County,6573,14.2
 20147,Kansas,Phillips County,5276,12.4
-20149,Kansas,Pottawatomie County,24209,8.0
-20151,Kansas,Pratt County,9340,12.0
+20149,Kansas,Pottawatomie County,24209,8
+20151,Kansas,Pratt County,9340,12
 20153,Kansas,Rawlins County,2502,12.9
 20155,Kansas,Reno County,62331,12.3
-20157,Kansas,Republic County,4652,11.0
+20157,Kansas,Republic County,4652,11
 20159,Kansas,Rice County,9483,13.8
 20161,Kansas,Riley County,74712,20.7
 20163,Kansas,Rooks County,4995,11.2
 20165,Kansas,Rush County,3056,13.8
 20167,Kansas,Russell County,6902,13.7
-20169,Kansas,Saline County,54387,11.0
+20169,Kansas,Saline County,54387,11
 20171,Kansas,Scott County,4909,7.8
 20173,Kansas,Sedgwick County,513484,13.4
 20175,Kansas,Seward County,21902,15.1
@@ -1012,7 +1012,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 21000,Kentucky,Kentucky,4461153,16.7
 21001,Kentucky,Adair County,19199,23.8
 21003,Kentucky,Allen County,21122,17.3
-21005,Kentucky,Anderson County,22641,10.0
+21005,Kentucky,Anderson County,22641,10
 21007,Kentucky,Ballard County,7992,15.3
 21009,Kentucky,Barren County,44115,19.2
 21011,Kentucky,Bath County,12444,20.4
@@ -1026,15 +1026,15 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 21027,Kentucky,Breckinridge County,20309,18.8
 21029,Kentucky,Bullitt County,81009,9.5
 21031,Kentucky,Butler County,12743,17.7
-21033,Kentucky,Caldwell County,12716,18.0
+21033,Kentucky,Caldwell County,12716,18
 21035,Kentucky,Calloway County,38964,21.3
 21037,Kentucky,Campbell County,93464,13.1
 21039,Kentucky,Carlisle County,4739,17.2
 21041,Kentucky,Carroll County,10712,15.6
 21043,Kentucky,Carter County,27040,31.1
-21045,Kentucky,Casey County,15926,26.0
+21045,Kentucky,Casey County,15926,26
 21047,Kentucky,Christian County,70712,18.2
-21049,Kentucky,Clark County,36180,16.0
+21049,Kentucky,Clark County,36180,16
 21051,Kentucky,Clay County,20088,38.2
 21053,Kentucky,Clinton County,10152,25.7
 21055,Kentucky,Crittenden County,8896,17.8
@@ -1053,9 +1053,9 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 21081,Kentucky,Grant County,25065,13.9
 21083,Kentucky,Graves County,37319,16.9
 21085,Kentucky,Grayson County,26293,21.4
-21087,Kentucky,Green County,10998,18.0
+21087,Kentucky,Green County,10998,18
 21089,Kentucky,Greenup County,35332,16.6
-21091,Kentucky,Hancock County,8738,12.0
+21091,Kentucky,Hancock County,8738,12
 21093,Kentucky,Hardin County,110279,13.4
 21095,Kentucky,Harlan County,26309,33.4
 21097,Kentucky,Harrison County,18780,15.5
@@ -1067,7 +1067,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 21109,Kentucky,Jackson County,13403,26.5
 21111,Kentucky,Jefferson County,768101,15.4
 21113,Kentucky,Jessamine County,53757,12.6
-21115,Kentucky,Johnson County,22391,25.0
+21115,Kentucky,Johnson County,22391,25
 21117,Kentucky,Kenton County,166292,10.4
 21119,Kentucky,Knott County,15076,32.1
 21121,Kentucky,Knox County,31300,31.9
@@ -1080,7 +1080,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 21135,Kentucky,Lewis County,13268,25.2
 21137,Kentucky,Lincoln County,24612,20.6
 21139,Kentucky,Livingston County,9244,13.9
-21141,Kentucky,Logan County,26983,18.0
+21141,Kentucky,Logan County,26983,18
 21143,Kentucky,Lyon County,8171,14.5
 21145,Kentucky,McCracken County,65307,14.7
 21147,Kentucky,McCreary County,17290,33.7
@@ -1095,7 +1095,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 21165,Kentucky,Menifee County,6437,26.4
 21167,Kentucky,Mercer County,21702,12.8
 21169,Kentucky,Metcalfe County,10070,23.3
-21171,Kentucky,Monroe County,10732,23.0
+21171,Kentucky,Monroe County,10732,23
 21173,Kentucky,Montgomery County,28109,15.3
 21175,Kentucky,Morgan County,13372,27.3
 21177,Kentucky,Muhlenberg County,30811,17.4
@@ -1108,14 +1108,14 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 21191,Kentucky,Pendleton County,14588,15.5
 21193,Kentucky,Perry County,26208,28.9
 21195,Kentucky,Pike County,58492,23.8
-21197,Kentucky,Powell County,12371,22.0
+21197,Kentucky,Powell County,12371,22
 21199,Kentucky,Pulaski County,64584,19.5
 21201,Kentucky,Robertson County,2130,19.1
 21203,Kentucky,Rockcastle County,16823,22.8
 21205,Kentucky,Rowan County,24503,22.7
 21207,Kentucky,Russell County,17790,21.6
 21209,Kentucky,Scott County,55968,8.3
-21211,Kentucky,Shelby County,48059,10.0
+21211,Kentucky,Shelby County,48059,10
 21213,Kentucky,Simpson County,18403,12.5
 21215,Kentucky,Spencer County,19021,7.3
 21217,Kentucky,Taylor County,25514,19.2
@@ -1143,7 +1143,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 22019,Louisiana,Calcasieu Parish,203177,14.9
 22021,Louisiana,Caldwell Parish,9964,20.8
 22023,Louisiana,Cameron Parish,7013,13.9
-22025,Louisiana,Catahoula Parish,9606,26.0
+22025,Louisiana,Catahoula Parish,9606,26
 22027,Louisiana,Claiborne Parish,15895,32.7
 22029,Louisiana,Concordia Parish,19586,27.2
 22031,Louisiana,De Soto Parish,27426,18.3
@@ -1152,7 +1152,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 22037,Louisiana,East Feliciana Parish,19286,19.6
 22039,Louisiana,Evangeline Parish,33496,27.3
 22041,Louisiana,Franklin Parish,20164,27.3
-22043,Louisiana,Grant Parish,22436,20.0
+22043,Louisiana,Grant Parish,22436,20
 22045,Louisiana,Iberia Parish,70905,24.1
 22047,Louisiana,Iberville Parish,32693,23.8
 22049,Louisiana,Jackson Parish,15912,21.6
@@ -1181,16 +1181,16 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 22095,Louisiana,St. John the Baptist Parish,43119,18.2
 22097,Louisiana,St. Landry Parish,82782,32.7
 22099,Louisiana,St. Martin Parish,53562,19.3
-22101,Louisiana,St. Mary Parish,49841,21.0
+22101,Louisiana,St. Mary Parish,49841,21
 22103,Louisiana,St. Tammany Parish,258035,11.8
 22105,Louisiana,Tangipahoa Parish,133837,17.9
 22107,Louisiana,Tensas Parish,4470,31.6
 22109,Louisiana,Terrebonne Parish,111163,17.3
-22111,Louisiana,Union Parish,22243,18.0
+22111,Louisiana,Union Parish,22243,18
 22113,Louisiana,Vermilion Parish,59886,18.3
 22115,Louisiana,Vernon Parish,48101,17.5
 22117,Louisiana,Washington Parish,46588,24.6
-22119,Louisiana,Webster Parish,38792,26.0
+22119,Louisiana,Webster Parish,38792,26
 22121,Louisiana,West Baton Rouge Parish,26400,12.8
 22123,Louisiana,West Carroll Parish,10977,23.3
 22125,Louisiana,West Feliciana Parish,15492,24.4
@@ -1202,7 +1202,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 23007,Maine,Franklin County,29915,14.5
 23009,Maine,Hancock County,54734,11.6
 23011,Maine,Kennebec County,122044,11.2
-23013,Maine,Knox County,39717,11.0
+23013,Maine,Knox County,39717,11
 23015,Maine,Lincoln County,34399,11.1
 23017,Maine,Oxford County,57754,16.7
 23019,Maine,Penobscot County,151817,14.7
@@ -1211,34 +1211,34 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 23025,Maine,Somerset County,50489,16.1
 23027,Maine,Waldo County,39657,13.7
 23029,Maine,Washington County,31321,18.3
-23031,Maine,York County,205869,9.0
+23031,Maine,York County,205869,9
 24000,Maryland,Maryland,6035802,9.1
 24001,Maryland,Allegany County,70941,16.7
-24003,Maryland,Anne Arundel County,575523,7.0
+24003,Maryland,Anne Arundel County,575523,7
 24005,Maryland,Baltimore County,827859,9.9
 24009,Maryland,Calvert County,92065,5.4
 24011,Maryland,Caroline County,33306,13.2
-24013,Maryland,Carroll County,168267,6.0
+24013,Maryland,Carroll County,168267,6
 24015,Maryland,Cecil County,102644,8.3
 24017,Maryland,Charles County,161476,6.6
 24019,Maryland,Dorchester County,31960,15.4
 24021,Maryland,Frederick County,254943,6.2
 24023,Maryland,Garrett County,29133,12.2
-24025,Maryland,Harford County,253882,7.0
+24025,Maryland,Harford County,253882,7
 24027,Maryland,Howard County,322621,5.2
 24029,Maryland,Kent County,19434,12.9
 24031,Maryland,Montgomery County,1048478,6.9
 24033,Maryland,Prince George's County,909619,8.3
 24035,Maryland,Queen Anne's County,50148,6.5
-24037,Maryland,St. Mary's County,112720,8.0
+24037,Maryland,St. Mary's County,112720,8
 24039,Maryland,Somerset County,25606,23.4
 24041,Maryland,Talbot County,37074,9.2
 24043,Maryland,Washington County,150656,11.1
 24045,Maryland,Wicomico County,103044,14.6
 24047,Maryland,Worcester County,51960,10.4
 24510,Maryland,Baltimore city,602443,18.9
-25000,Massachusetts,Massachusetts,6882635,10.0
-25001,Massachusetts,Barnstable County,213471,8.0
+25000,Massachusetts,Massachusetts,6882635,10
+25001,Massachusetts,Barnstable County,213471,8
 25003,Massachusetts,Berkshire County,125901,11.3
 25005,Massachusetts,Bristol County,564092,10.8
 25007,Massachusetts,Dukes County,17329,7.7
@@ -1251,8 +1251,8 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 25021,Massachusetts,Norfolk County,703230,6.5
 25023,Massachusetts,Plymouth County,518422,6.2
 25025,Massachusetts,Suffolk County,803147,17.5
-25027,Massachusetts,Worcester County,829054,9.0
-26000,Michigan,Michigan,9984072,14.0
+25027,Massachusetts,Worcester County,829054,9
+26000,Michigan,Michigan,9984072,14
 26001,Michigan,Alcona County,10360,19.5
 26003,Michigan,Alger County,9118,12.6
 26005,Michigan,Allegan County,117173,10.7
@@ -1283,7 +1283,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 26055,Michigan,Grand Traverse County,92530,9.5
 26057,Michigan,Gratiot County,40602,16.2
 26059,Michigan,Hillsdale County,45702,13.5
-26061,Michigan,Houghton County,35943,19.0
+26061,Michigan,Houghton County,35943,19
 26063,Michigan,Huron County,31211,12.6
 26065,Michigan,Ingham County,291612,18.1
 26067,Michigan,Ionia County,64276,9.9
@@ -1294,15 +1294,15 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 26077,Michigan,Kalamazoo County,264680,14.4
 26079,Michigan,Kalkaska County,17806,14.1
 26081,Michigan,Kent County,653350,11.3
-26083,Michigan,Keweenaw County,2090,12.0
+26083,Michigan,Keweenaw County,2090,12
 26085,Michigan,Lake County,11876,22.3
 26087,Michigan,Lapeer County,87921,10.1
-26089,Michigan,Leelanau County,21714,7.0
+26089,Michigan,Leelanau County,21714,7
 26091,Michigan,Lenawee County,98141,10.4
-26093,Michigan,Livingston County,191190,5.0
+26093,Michigan,Livingston County,191190,5
 26095,Michigan,Luce County,6327,20.7
 26097,Michigan,Mackinac County,10781,13.4
-26099,Michigan,Macomb County,872795,11.0
+26099,Michigan,Macomb County,872795,11
 26101,Michigan,Manistee County,24455,13.1
 26103,Michigan,Marquette County,66381,14.1
 26105,Michigan,Mason County,29084,12.1
@@ -1310,7 +1310,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 26109,Michigan,Menominee County,22927,12.4
 26111,Michigan,Midland County,83223,11.3
 26113,Michigan,Missaukee County,15101,12.9
-26115,Michigan,Monroe County,150174,10.0
+26115,Michigan,Monroe County,150174,10
 26117,Michigan,Montcalm County,63936,14.3
 26119,Michigan,Montmorency County,9275,18.2
 26121,Michigan,Muskegon County,173599,15.7
@@ -1325,7 +1325,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 26139,Michigan,Ottawa County,289808,6.8
 26141,Michigan,Presque Isle County,12698,14.2
 26143,Michigan,Roscommon County,23812,17.1
-26145,Michigan,Saginaw County,190791,17.0
+26145,Michigan,Saginaw County,190791,17
 26147,Michigan,St. Clair County,159031,13.8
 26149,Michigan,St. Joseph County,60912,13.6
 26151,Michigan,Sanilac County,41192,15.9
@@ -1333,7 +1333,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 26155,Michigan,Shiawassee County,68133,10.8
 26157,Michigan,Tuscola County,52633,12.7
 26159,Michigan,Van Buren County,75481,15.3
-26161,Michigan,Washtenaw County,369483,15.0
+26161,Michigan,Washtenaw County,369483,15
 26163,Michigan,Wayne County,1754453,21.7
 26165,Michigan,Wexford County,33446,13.1
 27000,Minnesota,Minnesota,5606249,9.6
@@ -1365,13 +1365,13 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 27051,Minnesota,Grant County,5989,9.9
 27053,Minnesota,Hennepin County,1257925,10.3
 27055,Minnesota,Houston County,18572,8.5
-27057,Minnesota,Hubbard County,21291,12.0
+27057,Minnesota,Hubbard County,21291,12
 27059,Minnesota,Isanti County,39950,7.6
 27061,Minnesota,Itasca County,45051,11.8
 27063,Minnesota,Jackson County,9895,8.8
 27065,Minnesota,Kanabec County,16246,11.3
 27067,Minnesota,Kandiyohi County,42910,11.5
-27069,Minnesota,Kittson County,4268,10.0
+27069,Minnesota,Kittson County,4268,10
 27071,Minnesota,Koochiching County,12431,14.9
 27073,Minnesota,Lac qui Parle County,6664,9.5
 27075,Minnesota,Lake County,10610,8.6
@@ -1394,9 +1394,9 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 27109,Minnesota,Olmsted County,156358,7.1
 27111,Minnesota,Otter Tail County,58670,10.3
 27113,Minnesota,Pennington County,14173,9.2
-27115,Minnesota,Pine County,29468,12.0
+27115,Minnesota,Pine County,29468,12
 27117,Minnesota,Pipestone County,9127,10.4
-27119,Minnesota,Polk County,31411,12.0
+27119,Minnesota,Polk County,31411,12
 27121,Minnesota,Pope County,11095,8.4
 27123,Minnesota,Ramsey County,548872,14.6
 27125,Minnesota,Red Lake County,3992,10.7
@@ -1421,7 +1421,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 27163,Minnesota,Washington County,258899,4.2
 27165,Minnesota,Watonwan County,11007,10.7
 27167,Minnesota,Wilkin County,6244,9.4
-27169,Minnesota,Winona County,50735,13.0
+27169,Minnesota,Winona County,50735,13
 27171,Minnesota,Wright County,136313,4.9
 27173,Minnesota,Yellow Medicine County,9799,11.7
 28000,Mississippi,Mississippi,2981020,19.8
@@ -1441,27 +1441,27 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 28027,Mississippi,Coahoma County,22605,35.9
 28029,Mississippi,Copiah County,28400,26.5
 28031,Mississippi,Covington County,18825,26.5
-28033,Mississippi,DeSoto County,181932,9.0
-28035,Mississippi,Forrest County,74912,24.0
+28033,Mississippi,DeSoto County,181932,9
+28035,Mississippi,Forrest County,74912,24
 28037,Mississippi,Franklin County,7758,20.1
 28039,Mississippi,George County,24110,16.1
 28041,Mississippi,Greene County,13996,22.6
 28043,Mississippi,Grenada County,20984,22.3
 28045,Mississippi,Hancock County,47278,17.5
-28047,Mississippi,Harrison County,206284,20.0
+28047,Mississippi,Harrison County,206284,20
 28049,Mississippi,Hinds County,235824,19.4
 28051,Mississippi,Holmes County,17444,33.2
-28053,Mississippi,Humphreys County,8256,37.0
+28053,Mississippi,Humphreys County,8256,37
 28055,Mississippi,Issaquena County,1307,40.5
 28057,Mississippi,Itawamba County,23461,13.7
 28059,Mississippi,Jackson County,143127,17.9
-28061,Mississippi,Jasper County,16425,19.0
+28061,Mississippi,Jasper County,16425,19
 28063,Mississippi,Jefferson County,7093,35.5
-28065,Mississippi,Jefferson Davis County,11215,26.0
+28065,Mississippi,Jefferson Davis County,11215,26
 28067,Mississippi,Jones County,68196,19.9
 28069,Mississippi,Kemper County,9733,27.5
-28071,Mississippi,Lafayette County,53542,18.0
-28073,Mississippi,Lamar County,62637,14.0
+28071,Mississippi,Lafayette County,53542,18
+28073,Mississippi,Lamar County,62637,14
 28075,Mississippi,Lauderdale County,75238,25.5
 28077,Mississippi,Lawrence County,12448,18.7
 28079,Mississippi,Leake County,22791,25.4
@@ -1476,11 +1476,11 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 28097,Mississippi,Montgomery County,9994,22.9
 28099,Mississippi,Neshoba County,29151,26.9
 28101,Mississippi,Newton County,21355,21.2
-28103,Mississippi,Noxubee County,10550,29.0
+28103,Mississippi,Noxubee County,10550,29
 28105,Mississippi,Oktibbeha County,49249,27.3
 28107,Mississippi,Panola County,34156,21.8
 28109,Mississippi,Pearl River County,55323,18.1
-28111,Mississippi,Perry County,11918,22.0
+28111,Mississippi,Perry County,11918,22
 28113,Mississippi,Pike County,39380,30.6
 28115,Mississippi,Pontotoc County,31881,16.5
 28117,Mississippi,Prentiss County,25088,19.8
@@ -1504,7 +1504,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 28153,Mississippi,Wayne County,20296,21.4
 28155,Mississippi,Webster County,9788,18.1
 28157,Mississippi,Wilkinson County,8781,30.3
-28159,Mississippi,Winston County,18164,21.0
+28159,Mississippi,Winston County,18164,21
 28161,Mississippi,Yalobusha County,12361,18.1
 28163,Mississippi,Yazoo County,29093,37.1
 29000,Missouri,Missouri,6121623,13.2
@@ -1531,15 +1531,15 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 29041,Missouri,Chariton County,7457,13.4
 29043,Missouri,Christian County,87044,8.6
 29045,Missouri,Clark County,6833,14.9
-29047,Missouri,Clay County,246360,7.0
-29049,Missouri,Clinton County,20435,9.0
+29047,Missouri,Clay County,246360,7
+29049,Missouri,Clinton County,20435,9
 29051,Missouri,Cole County,76720,8.9
-29053,Missouri,Cooper County,17626,14.0
+29053,Missouri,Cooper County,17626,14
 29055,Missouri,Crawford County,23968,15.9
 29057,Missouri,Dade County,7564,16.8
 29059,Missouri,Dallas County,16782,16.6
 29061,Missouri,Daviess County,8334,14.9
-29063,Missouri,DeKalb County,12515,16.0
+29063,Missouri,DeKalb County,12515,16
 29065,Missouri,Dent County,15547,20.3
 29067,Missouri,Douglas County,13359,19.7
 29069,Missouri,Dunklin County,29478,26.1
@@ -1555,13 +1555,13 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 29089,Missouri,Howard County,10059,13.1
 29091,Missouri,Howell County,40126,21.3
 29093,Missouri,Iron County,10187,19.9
-29095,Missouri,Jackson County,700784,13.0
+29095,Missouri,Jackson County,700784,13
 29097,Missouri,Jasper County,120455,16.6
 29099,Missouri,Jefferson County,224410,8.7
 29101,Missouri,Johnson County,53621,14.1
 29103,Missouri,Knox County,3965,16.6
 29105,Missouri,Laclede County,35596,15.4
-29107,Missouri,Lafayette County,32542,11.0
+29107,Missouri,Lafayette County,32542,11
 29109,Missouri,Lawrence County,38264,15.5
 29111,Missouri,Lewis County,9839,15.4
 29113,Missouri,Lincoln County,57613,10.6
@@ -1580,11 +1580,11 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 29139,Missouri,Montgomery County,11488,14.3
 29141,Missouri,Morgan County,20414,16.3
 29143,Missouri,New Madrid County,17272,18.3
-29145,Missouri,Newton County,58158,16.0
+29145,Missouri,Newton County,58158,16
 29147,Missouri,Nodaway County,22223,19.8
 29149,Missouri,Oregon County,10558,23.8
 29151,Missouri,Osage County,13652,9.2
-29153,Missouri,Ozark County,9070,22.0
+29153,Missouri,Ozark County,9070,22
 29155,Missouri,Pemiscot County,16256,29.1
 29157,Missouri,Perry County,19274,10.9
 29159,Missouri,Pettis County,42441,16.6
@@ -1602,7 +1602,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 29183,Missouri,St. Charles County,398780,5.7
 29185,Missouri,St. Clair County,9389,18.2
 29186,Missouri,Ste. Genevieve County,17877,9.8
-29187,Missouri,St. Francois County,66737,19.0
+29187,Missouri,St. Francois County,66737,19
 29189,Missouri,St. Louis County,995219,10.5
 29195,Missouri,Saline County,22890,14.8
 29197,Missouri,Schuyler County,4594,16.9
@@ -1639,9 +1639,9 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 30025,Montana,Fallon County,2912,9.2
 30027,Montana,Fergus County,11117,12.2
 30029,Montana,Flathead County,102017,11.2
-30031,Montana,Gallatin County,111682,9.0
+30031,Montana,Gallatin County,111682,9
 30033,Montana,Garfield County,1257,16.3
-30035,Montana,Glacier County,13828,27.0
+30035,Montana,Glacier County,13828,27
 30037,Montana,Golden Valley County,822,18.9
 30039,Montana,Granite County,3371,13.4
 30041,Montana,Hill County,16342,13.5
@@ -1649,14 +1649,14 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 30045,Montana,Judith Basin County,1946,13.3
 30047,Montana,Lake County,30220,18.2
 30049,Montana,Lewis and Clark County,68622,10.5
-30051,Montana,Liberty County,2416,19.0
+30051,Montana,Liberty County,2416,19
 30053,Montana,Lincoln County,19797,20.3
 30055,Montana,McCone County,1669,14.2
 30057,Montana,Madison County,8530,9.2
 30059,Montana,Meagher County,1857,15.9
-30061,Montana,Mineral County,4307,14.0
+30061,Montana,Mineral County,4307,14
 30063,Montana,Missoula County,118640,12.7
-30065,Montana,Musselshell County,4632,15.0
+30065,Montana,Musselshell County,4632,15
 30067,Montana,Park County,16648,10.5
 30069,Montana,Petroleum County,512,16.2
 30071,Montana,Phillips County,4060,15.2
@@ -1667,20 +1667,20 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 30081,Montana,Ravalli County,43166,15.5
 30083,Montana,Richland County,10855,8.7
 30085,Montana,Roosevelt County,11069,25.4
-30087,Montana,Rosebud County,9040,17.0
-30089,Montana,Sanders County,11847,16.0
+30087,Montana,Rosebud County,9040,17
+30089,Montana,Sanders County,11847,16
 30091,Montana,Sheridan County,3386,10.9
 30093,Montana,Silver Bow County,34739,16.7
 30095,Montana,Stillwater County,9483,8.1
-30097,Montana,Sweet Grass County,3703,10.0
+30097,Montana,Sweet Grass County,3703,10
 30099,Montana,Teton County,6117,15.8
 30101,Montana,Toole County,4835,15.1
 30103,Montana,Treasure County,673,11.4
 30105,Montana,Valley County,7406,13.7
-30107,Montana,Wheatland County,2184,19.0
-30109,Montana,Wibaux County,1030,12.0
+30107,Montana,Wheatland County,2184,19
+30109,Montana,Wibaux County,1030,12
 30111,Montana,Yellowstone County,160029,10.9
-31000,Nebraska,Nebraska,1925614,11.0
+31000,Nebraska,Nebraska,1925614,11
 31001,Nebraska,Adams County,31514,11.8
 31003,Nebraska,Antelope County,6308,12.6
 31005,Nebraska,Arthur County,462,12.9
@@ -1698,10 +1698,10 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 31029,Nebraska,Chase County,3937,9.5
 31031,Nebraska,Cherry County,5763,12.2
 31033,Nebraska,Cheyenne County,9282,11.3
-31035,Nebraska,Clay County,6202,11.0
+31035,Nebraska,Clay County,6202,11
 31037,Nebraska,Colfax County,10734,10.4
 31039,Nebraska,Cuming County,8935,8.9
-31041,Nebraska,Custer County,10830,12.0
+31041,Nebraska,Custer County,10830,12
 31043,Nebraska,Dakota County,20002,12.4
 31045,Nebraska,Dawes County,8705,17.1
 31047,Nebraska,Dawson County,23744,12.1
@@ -1709,7 +1709,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 31051,Nebraska,Dixon County,5700,9.7
 31053,Nebraska,Dodge County,36725,9.8
 31055,Nebraska,Douglas County,566391,11.6
-31057,Nebraska,Dundy County,1764,14.0
+31057,Nebraska,Dundy County,1764,14
 31059,Nebraska,Fillmore County,5535,8.9
 31061,Nebraska,Franklin County,3013,13.4
 31063,Nebraska,Frontier County,2600,14.2
@@ -1720,7 +1720,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 31073,Nebraska,Gosper County,1996,9.1
 31075,Nebraska,Grant County,657,10.6
 31077,Nebraska,Greeley County,2355,12.8
-31079,Nebraska,Hall County,61286,13.0
+31079,Nebraska,Hall County,61286,13
 31081,Nebraska,Hamilton County,9260,6.5
 31083,Nebraska,Harlan County,3386,11.1
 31085,Nebraska,Hayes County,917,16.2
@@ -1745,7 +1745,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 31123,Nebraska,Morrill County,4674,14.5
 31125,Nebraska,Nance County,3506,11.7
 31127,Nebraska,Nemaha County,6957,12.7
-31129,Nebraska,Nuckolls County,4207,11.0
+31129,Nebraska,Nuckolls County,4207,11
 31131,Nebraska,Otoe County,15983,9.4
 31133,Nebraska,Pawnee County,2623,13.8
 31135,Nebraska,Perkins County,2902,10.3
@@ -1753,8 +1753,8 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 31139,Nebraska,Pierce County,7145,9.8
 31141,Nebraska,Platte County,33287,8.5
 31143,Nebraska,Polk County,5240,8.5
-31145,Nebraska,Red Willow County,10705,11.0
-31147,Nebraska,Richardson County,7938,13.0
+31145,Nebraska,Red Willow County,10705,11
+31147,Nebraska,Richardson County,7938,13
 31149,Nebraska,Rock County,1351,14.6
 31151,Nebraska,Saline County,14336,12.4
 31153,Nebraska,Sarpy County,184062,5.7
@@ -1762,21 +1762,21 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 31157,Nebraska,Scotts Bluff County,35925,14.3
 31159,Nebraska,Seward County,17273,7.2
 31161,Nebraska,Sheridan County,5189,16.5
-31163,Nebraska,Sherman County,3044,14.0
+31163,Nebraska,Sherman County,3044,14
 31165,Nebraska,Sioux County,1186,16.7
 31167,Nebraska,Stanton County,5970,7.5
 31169,Nebraska,Thayer County,5039,10.8
-31171,Nebraska,Thomas County,714,15.0
+31171,Nebraska,Thomas County,714,15
 31173,Nebraska,Thurston County,7274,23.9
 31175,Nebraska,Valley County,4197,12.4
 31177,Nebraska,Washington County,20617,6.9
 31179,Nebraska,Wayne County,9318,13.9
 31181,Nebraska,Webster County,3534,13.2
-31183,Nebraska,Wheeler County,802,14.0
+31183,Nebraska,Wheeler County,802,14
 31185,Nebraska,York County,13748,9.7
 32000,Nevada,Nevada,3027341,13.1
 32001,Nevada,Churchill County,24506,11.4
-32003,Nevada,Clark County,2226115,14.0
+32003,Nevada,Clark County,2226115,14
 32005,Nevada,Douglas County,48489,7.2
 32007,Nevada,Elko County,52539,8.3
 32009,Nevada,Esmeralda County,827,14.4
@@ -1794,12 +1794,12 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 32510,Nevada,Carson City,55202,11.3
 33000,New Hampshire,New Hampshire,1353465,7.6
 33001,New Hampshire,Belknap County,61145,6.9
-33003,New Hampshire,Carroll County,48754,9.0
+33003,New Hampshire,Carroll County,48754,9
 33005,New Hampshire,Cheshire County,75901,10.2
 33007,New Hampshire,Coos County,31486,13.1
-33009,New Hampshire,Grafton County,89701,9.0
+33009,New Hampshire,Grafton County,89701,9
 33011,New Hampshire,Hillsborough County,414630,7.4
-33013,New Hampshire,Merrimack County,150650,7.0
+33013,New Hampshire,Merrimack County,150650,7
 33015,New Hampshire,Rockingham County,308287,5.3
 33017,New Hampshire,Strafford County,129797,9.7
 33019,New Hampshire,Sullivan County,43114,11.2
@@ -1847,7 +1847,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 35033,New Mexico,Mora County,4487,23.5
 35035,New Mexico,Otero County,66659,20.3
 35037,New Mexico,Quay County,8242,24.1
-35039,New Mexico,Rio Arriba County,39023,22.0
+35039,New Mexico,Rio Arriba County,39023,22
 35041,New Mexico,Roosevelt County,18759,22.6
 35043,New Mexico,Sandoval County,145096,12.6
 35045,New Mexico,San Juan County,125499,23.1
@@ -1861,11 +1861,11 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 35061,New Mexico,Valencia County,76305,17.3
 36000,New York,New York,19530351,13.7
 36001,New York,Albany County,306585,11.3
-36003,New York,Allegany County,46332,17.0
+36003,New York,Allegany County,46332,17
 36005,New York,Bronx County,1432087,27.3
 36007,New York,Broome County,191925,17.3
 36009,New York,Cattaraugus County,76726,17.1
-36011,New York,Cayuga County,77121,13.0
+36011,New York,Cayuga County,77121,13
 36013,New York,Chautauqua County,127472,18.3
 36015,New York,Chemung County,83935,13.5
 36017,New York,Chenango County,47445,15.1
@@ -1877,9 +1877,9 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 36029,New York,Erie County,919717,13.7
 36031,New York,Essex County,37288,11.7
 36033,New York,Franklin County,50279,16.7
-36035,New York,Fulton County,53633,13.0
+36035,New York,Fulton County,53633,13
 36037,New York,Genesee County,57487,9.9
-36039,New York,Greene County,47381,13.0
+36039,New York,Greene County,47381,13
 36041,New York,Hamilton County,4432,9.1
 36043,New York,Herkimer County,61713,13.5
 36045,New York,Jefferson County,111866,12.3
@@ -1891,7 +1891,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 36057,New York,Montgomery County,49394,15.8
 36059,New York,Nassau County,1357534,5.8
 36061,New York,New York County,1629055,15.6
-36063,New York,Niagara County,210060,13.0
+36063,New York,Niagara County,210060,13
 36065,New York,Oneida County,229474,14.8
 36067,New York,Onondaga County,461649,13.7
 36069,New York,Ontario County,109738,8.5
@@ -1899,7 +1899,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 36073,New York,Orleans County,40655,12.6
 36075,New York,Oswego County,117515,16.1
 36077,New York,Otsego County,59810,12.5
-36079,New York,Putnam County,98814,6.0
+36079,New York,Putnam County,98814,6
 36081,New York,Queens County,2274605,11.6
 36083,New York,Rensselaer County,159283,11.1
 36085,New York,Richmond County,476260,11.7
@@ -1924,7 +1924,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 36123,New York,Yates County,24951,12.7
 37000,North Carolina,North Carolina,10381615,14.1
 37001,North Carolina,Alamance County,166514,13.5
-37003,North Carolina,Alexander County,37331,13.0
+37003,North Carolina,Alexander County,37331,13
 37005,North Carolina,Alleghany County,11138,18.7
 37007,North Carolina,Anson County,24470,20.5
 37009,North Carolina,Ashe County,27099,16.9
@@ -1934,13 +1934,13 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 37017,North Carolina,Bladen County,33151,29.1
 37019,North Carolina,Brunswick County,136880,10.5
 37021,North Carolina,Buncombe County,259259,11.5
-37023,North Carolina,Burke County,90405,14.0
-37025,North Carolina,Cabarrus County,211597,9.0
+37023,North Carolina,Burke County,90405,14
+37025,North Carolina,Cabarrus County,211597,9
 37027,North Carolina,Caldwell County,82026,15.9
 37029,North Carolina,Camden County,10676,8.3
 37031,North Carolina,Carteret County,69438,9.8
 37033,North Carolina,Caswell County,22634,17.1
-37035,North Carolina,Catawba County,158687,13.0
+37035,North Carolina,Catawba County,158687,13
 37037,North Carolina,Chatham County,73127,9.3
 37039,North Carolina,Cherokee County,28369,18.8
 37041,North Carolina,Chowan County,14065,17.2
@@ -1948,10 +1948,10 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 37045,North Carolina,Cleveland County,97519,19.1
 37047,North Carolina,Columbus County,55819,25.3
 37049,North Carolina,Craven County,102338,14.9
-37051,North Carolina,Cumberland County,333430,17.0
+37051,North Carolina,Cumberland County,333430,17
 37053,North Carolina,Currituck County,27016,9.7
 37055,North Carolina,Dare County,36607,8.3
-37057,North Carolina,Davidson County,166358,15.0
+37057,North Carolina,Davidson County,166358,15
 37059,North Carolina,Davie County,42563,10.8
 37061,North Carolina,Duplin County,58991,20.4
 37063,North Carolina,Durham County,316979,13.5
@@ -1961,15 +1961,15 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 37071,North Carolina,Gaston County,222630,14.2
 37073,North Carolina,Gates County,11563,15.2
 37075,North Carolina,Graham County,8461,18.9
-37077,North Carolina,Granville County,59979,13.0
+37077,North Carolina,Granville County,59979,13
 37079,North Carolina,Greene County,21106,23.5
 37081,North Carolina,Guilford County,532607,15.4
-37083,North Carolina,Halifax County,50634,22.0
+37083,North Carolina,Halifax County,50634,22
 37085,North Carolina,Harnett County,134336,14.4
 37087,North Carolina,Haywood County,61890,13.1
 37089,North Carolina,Henderson County,116500,9.7
 37091,North Carolina,Hertford County,23878,23.2
-37093,North Carolina,Hoke County,54695,18.0
+37093,North Carolina,Hoke County,54695,18
 37095,North Carolina,Hyde County,5026,22.2
 37097,North Carolina,Iredell County,178332,9.5
 37099,North Carolina,Jackson County,43600,16.7
@@ -1980,7 +1980,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 37109,North Carolina,Lincoln County,84092,10.3
 37111,North Carolina,McDowell County,45465,15.4
 37113,North Carolina,Macon County,35274,16.3
-37115,North Carolina,Madison County,21665,17.0
+37115,North Carolina,Madison County,21665,17
 37117,North Carolina,Martin County,22660,20.3
 37119,North Carolina,Mecklenburg County,1093750,11.7
 37121,North Carolina,Mitchell County,14996,16.1
@@ -2008,11 +2008,11 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 37165,North Carolina,Scotland County,34751,26.9
 37167,North Carolina,Stanly County,62180,13.2
 37169,North Carolina,Stokes County,45511,12.1
-37171,North Carolina,Surry County,71959,16.0
+37171,North Carolina,Surry County,71959,16
 37173,North Carolina,Swain County,14249,15.2
 37175,North Carolina,Transylvania County,34173,12.8
 37177,North Carolina,Tyrrell County,4115,25.2
-37179,North Carolina,Union County,235830,7.0
+37179,North Carolina,Union County,235830,7
 37181,North Carolina,Vance County,44635,26.3
 37183,North Carolina,Wake County,1091273,8.4
 37185,North Carolina,Warren County,19819,19.8
@@ -2021,13 +2021,13 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 37191,North Carolina,Wayne County,123237,20.2
 37193,North Carolina,Wilkes County,68563,18.9
 37195,North Carolina,Wilson County,81392,21.1
-37197,North Carolina,Yadkin County,37481,13.0
+37197,North Carolina,Yadkin County,37481,13
 37199,North Carolina,Yancey County,17873,17.8
 38000,North Dakota,North Dakota,758080,10.6
 38001,North Dakota,Adams County,2276,10.4
 38003,North Dakota,Barnes County,10527,12.3
 38005,North Dakota,Benson County,6958,30.8
-38007,North Dakota,Billings County,918,9.0
+38007,North Dakota,Billings County,918,9
 38009,North Dakota,Bottineau County,6398,11.6
 38011,North Dakota,Bowman County,3067,8.7
 38013,North Dakota,Burke County,2094,9.3
@@ -2035,7 +2035,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 38017,North Dakota,Cass County,180294,10.4
 38019,North Dakota,Cavalier County,3811,10.6
 38021,North Dakota,Dickey County,4931,11.1
-38023,North Dakota,Divide County,2264,10.0
+38023,North Dakota,Divide County,2264,10
 38025,North Dakota,Dunn County,4328,10.4
 38027,North Dakota,Eddy County,2309,10.6
 38029,North Dakota,Emmons County,3278,13.3
@@ -2084,17 +2084,17 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 39007,Ohio,Ashtabula County,97587,17.4
 39009,Ohio,Athens County,65519,30.7
 39011,Ohio,Auglaize County,45736,6.9
-39013,Ohio,Belmont County,67533,13.0
+39013,Ohio,Belmont County,67533,13
 39015,Ohio,Brown County,43570,11.8
 39017,Ohio,Butler County,382000,12.4
 39019,Ohio,Carroll County,27082,12.9
-39021,Ohio,Champaign County,38785,10.0
+39021,Ohio,Champaign County,38785,10
 39023,Ohio,Clark County,134528,14.9
 39025,Ohio,Clermont County,205526,8.2
 39027,Ohio,Clinton County,42085,11.8
 39029,Ohio,Columbiana County,102473,15.1
 39031,Ohio,Coshocton County,36596,15.4
-39033,Ohio,Crawford County,41484,14.0
+39033,Ohio,Crawford County,41484,14
 39035,Ohio,Cuyahoga County,1241718,17.9
 39037,Ohio,Darke County,51299,9.5
 39039,Ohio,Defiance County,38089,9.1
@@ -2118,7 +2118,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 39075,Ohio,Holmes County,43919,9.4
 39077,Ohio,Huron County,58364,11.1
 39079,Ohio,Jackson County,32366,16.8
-39081,Ohio,Jefferson County,65774,19.0
+39081,Ohio,Jefferson County,65774,19
 39083,Ohio,Knox County,61900,13.8
 39085,Ohio,Lake County,230102,7.5
 39087,Ohio,Lawrence County,59767,18.8
@@ -2135,7 +2135,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 39109,Ohio,Miami County,106042,7.9
 39111,Ohio,Monroe County,13787,14.1
 39113,Ohio,Montgomery County,531600,16.9
-39115,Ohio,Morgan County,14581,17.0
+39115,Ohio,Morgan County,14581,17
 39117,Ohio,Morrow County,35113,11.9
 39119,Ohio,Muskingum County,86131,16.6
 39121,Ohio,Noble County,14347,18.1
@@ -2149,43 +2149,43 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 39137,Ohio,Putnam County,33802,5.5
 39139,Ohio,Richland County,120987,14.4
 39141,Ohio,Ross County,76884,18.4
-39143,Ohio,Sandusky County,58740,10.0
+39143,Ohio,Sandusky County,58740,10
 39145,Ohio,Scioto County,75480,22.6
 39147,Ohio,Seneca County,55194,12.1
-39149,Ohio,Shelby County,48622,9.0
+39149,Ohio,Shelby County,48622,9
 39151,Ohio,Stark County,371248,14.4
-39153,Ohio,Summit County,541353,12.0
+39153,Ohio,Summit County,541353,12
 39155,Ohio,Trumbull County,198539,17.6
 39157,Ohio,Tuscarawas County,92079,12.3
-39159,Ohio,Union County,57782,5.0
+39159,Ohio,Union County,57782,5
 39161,Ohio,Van Wert County,28253,8.4
-39163,Ohio,Vinton County,13145,19.0
+39163,Ohio,Vinton County,13145,19
 39165,Ohio,Warren County,231945,5.2
 39167,Ohio,Washington County,60111,15.9
 39169,Ohio,Wayne County,115790,9.4
 39171,Ohio,Williams County,36739,9.7
 39173,Ohio,Wood County,130441,11.9
-39175,Ohio,Wyandot County,21918,8.0
+39175,Ohio,Wyandot County,21918,8
 40000,Oklahoma,Oklahoma,3940235,15.5
 40001,Oklahoma,Adair County,22224,24.6
 40003,Oklahoma,Alfalfa County,5765,15.2
 40005,Oklahoma,Atoka County,13795,20.8
 40007,Oklahoma,Beaver County,5318,11.2
 40009,Oklahoma,Beckham County,21720,16.3
-40011,Oklahoma,Blaine County,9454,16.0
+40011,Oklahoma,Blaine County,9454,16
 40013,Oklahoma,Bryan County,47191,16.6
 40015,Oklahoma,Caddo County,29028,19.5
 40017,Oklahoma,Canadian County,144426,7.3
 40019,Oklahoma,Carter County,48213,17.7
-40021,Oklahoma,Cherokee County,48607,21.0
-40023,Oklahoma,Choctaw County,14698,23.0
+40021,Oklahoma,Cherokee County,48607,21
+40023,Oklahoma,Choctaw County,14698,23
 40025,Oklahoma,Cimarron County,2165,16.4
 40027,Oklahoma,Cleveland County,281166,11.9
 40029,Oklahoma,Coal County,5520,22.6
 40031,Oklahoma,Comanche County,120528,16.7
 40033,Oklahoma,Cotton County,5820,16.2
 40035,Oklahoma,Craig County,14300,19.5
-40037,Oklahoma,Creek County,71730,14.0
+40037,Oklahoma,Creek County,71730,14
 40039,Oklahoma,Custer County,28995,18.2
 40041,Oklahoma,Delaware County,42814,20.7
 40043,Oklahoma,Dewey County,4931,12.1
@@ -2194,9 +2194,9 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 40049,Oklahoma,Garvin County,27746,15.1
 40051,Oklahoma,Grady County,55448,10.1
 40053,Oklahoma,Grant County,4321,12.7
-40055,Oklahoma,Greer County,5814,26.0
+40055,Oklahoma,Greer County,5814,26
 40057,Oklahoma,Harmon County,2691,23.9
-40059,Oklahoma,Harper County,3727,11.0
+40059,Oklahoma,Harper County,3727,11
 40061,Oklahoma,Haskell County,12636,23.3
 40063,Oklahoma,Hughes County,13305,24.6
 40065,Oklahoma,Jackson County,24775,15.3
@@ -2214,7 +2214,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 40089,Oklahoma,McCurtain County,32967,21.1
 40091,Oklahoma,McIntosh County,19745,23.9
 40093,Oklahoma,Major County,7627,10.8
-40095,Oklahoma,Marshall County,16727,18.0
+40095,Oklahoma,Marshall County,16727,18
 40097,Oklahoma,Mayes County,41210,15.5
 40099,Oklahoma,Murray County,13968,14.9
 40101,Oklahoma,Muskogee County,68324,15.6
@@ -2235,12 +2235,12 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 40131,Oklahoma,Rogers County,91801,9.8
 40133,Oklahoma,Seminole County,24520,18.6
 40135,Oklahoma,Sequoyah County,41585,18.8
-40137,Oklahoma,Stephens County,43179,15.0
+40137,Oklahoma,Stephens County,43179,15
 40139,Oklahoma,Texas County,20491,12.7
 40141,Oklahoma,Tillman County,7323,21.1
 40143,Oklahoma,Tulsa County,647683,14.1
-40145,Oklahoma,Wagoner County,80123,10.0
-40147,Oklahoma,Washington County,51791,13.0
+40145,Oklahoma,Wagoner County,80123,10
+40147,Oklahoma,Washington County,51791,13
 40149,Oklahoma,Washita County,11036,17.8
 40151,Oklahoma,Woods County,8893,15.2
 40153,Oklahoma,Woodward County,20312,14.8
@@ -2248,29 +2248,29 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 41001,Oregon,Baker County,16034,15.4
 41003,Oregon,Benton County,92442,15.8
 41005,Oregon,Clackamas County,415416,7.3
-41007,Oregon,Clatsop County,39711,11.0
+41007,Oregon,Clatsop County,39711,11
 41009,Oregon,Columbia County,52245,10.2
 41011,Oregon,Coos County,64272,15.9
 41013,Oregon,Crook County,23825,12.9
 41015,Oregon,Curry County,22795,14.9
 41017,Oregon,Deschutes County,191905,9.4
-41019,Oregon,Douglas County,110114,15.0
+41019,Oregon,Douglas County,110114,15
 41021,Oregon,Gilliam County,1893,11.4
 41023,Oregon,Grant County,7185,16.4
 41025,Oregon,Harney County,7292,15.1
 41027,Oregon,Hood River County,23267,10.9
 41029,Oregon,Jackson County,219411,14.8
-41031,Oregon,Jefferson County,24150,16.0
-41033,Oregon,Josephine County,87150,17.0
+41031,Oregon,Jefferson County,24150,16
+41033,Oregon,Josephine County,87150,17
 41035,Oregon,Klamath County,67687,18.5
 41037,Oregon,Lake County,7835,18.3
 41039,Oregon,Lane County,378549,18.1
 41041,Oregon,Lincoln County,49224,13.6
 41043,Oregon,Linn County,127451,12.7
-41045,Oregon,Malheur County,30553,21.0
+41045,Oregon,Malheur County,30553,21
 41047,Oregon,Marion County,345412,14.5
 41049,Oregon,Morrow County,11360,15.4
-41051,Oregon,Multnomah County,809072,12.0
+41051,Oregon,Multnomah County,809072,12
 41053,Oregon,Polk County,84992,12.7
 41055,Oregon,Sherman County,1700,13.9
 41057,Oregon,Tillamook County,26710,13.2
@@ -2282,7 +2282,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 41069,Oregon,Wheeler County,1351,19.2
 41071,Oregon,Yamhill County,106367,12.2
 42000,Pennsylvania,Pennsylvania,12800922,12.2
-42001,Pennsylvania,Adams County,103062,8.0
+42001,Pennsylvania,Adams County,103062,8
 42003,Pennsylvania,Allegheny County,1217281,11.7
 42005,Pennsylvania,Armstrong County,65352,9.2
 42007,Pennsylvania,Beaver County,164582,11.2
@@ -2308,8 +2308,8 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 42047,Pennsylvania,Elk County,30110,9.2
 42049,Pennsylvania,Erie County,271544,15.3
 42051,Pennsylvania,Fayette County,130323,14.6
-42053,Pennsylvania,Forest County,7284,24.0
-42055,Pennsylvania,Franklin County,154579,11.0
+42053,Pennsylvania,Forest County,7284,24
+42055,Pennsylvania,Franklin County,154579,11
 42057,Pennsylvania,Fulton County,14525,11.5
 42059,Pennsylvania,Greene County,36661,15.9
 42061,Pennsylvania,Huntingdon County,45395,13.7
@@ -2319,10 +2319,10 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 42069,Pennsylvania,Lackawanna County,210269,14.2
 42071,Pennsylvania,Lancaster County,543969,7.9
 42073,Pennsylvania,Lawrence County,86128,15.8
-42075,Pennsylvania,Lebanon County,141339,10.0
-42077,Pennsylvania,Lehigh County,368359,12.0
+42075,Pennsylvania,Lebanon County,141339,10
+42077,Pennsylvania,Lehigh County,368359,12
 42079,Pennsylvania,Luzerne County,317859,14.3
-42081,Pennsylvania,Lycoming County,113866,13.0
+42081,Pennsylvania,Lycoming County,113866,13
 42083,Pennsylvania,McKean County,40950,16.8
 42085,Pennsylvania,Mercer County,110471,15.3
 42087,Pennsylvania,Mifflin County,46211,15.1
@@ -2335,17 +2335,17 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 42101,Pennsylvania,Philadelphia County,1583592,24.3
 42103,Pennsylvania,Pike County,55780,10.3
 42105,Pennsylvania,Potter County,16623,14.8
-42107,Pennsylvania,Schuylkill County,141815,13.0
+42107,Pennsylvania,Schuylkill County,141815,13
 42109,Pennsylvania,Snyder County,40518,10.7
-42111,Pennsylvania,Somerset County,73872,12.0
+42111,Pennsylvania,Somerset County,73872,12
 42113,Pennsylvania,Sullivan County,6076,14.3
 42115,Pennsylvania,Susquehanna County,40560,12.8
-42117,Pennsylvania,Tioga County,40690,15.0
+42117,Pennsylvania,Tioga County,40690,15
 42119,Pennsylvania,Union County,45017,12.6
-42121,Pennsylvania,Venango County,51201,15.0
+42121,Pennsylvania,Venango County,51201,15
 42123,Pennsylvania,Warren County,39551,11.2
-42125,Pennsylvania,Washington County,207018,9.0
-42127,Pennsylvania,Wayne County,51395,13.0
+42125,Pennsylvania,Washington County,207018,9
+42127,Pennsylvania,Wayne County,51395,13
 42129,Pennsylvania,Westmoreland County,350459,9.2
 42131,Pennsylvania,Wyoming County,27087,11.8
 42133,Pennsylvania,York County,447847,8.8
@@ -2354,10 +2354,10 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 44003,Rhode Island,Kent County,164053,7.8
 44005,Rhode Island,Newport County,82547,8.1
 44007,Rhode Island,Providence County,636953,16.1
-44009,Rhode Island,Washington County,126097,8.0
+44009,Rhode Island,Washington County,126097,8
 45000,South Carolina,South Carolina,5084156,15.2
 45001,South Carolina,Abbeville County,24587,19.1
-45003,South Carolina,Aiken County,169449,15.0
+45003,South Carolina,Aiken County,169449,15
 45005,South Carolina,Allendale County,8924,37.3
 45007,South Carolina,Anderson County,200292,14.6
 45009,South Carolina,Bamberg County,14272,26.7
@@ -2370,19 +2370,19 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 45023,South Carolina,Chester County,32304,18.2
 45025,South Carolina,Chesterfield County,45881,20.9
 45027,South Carolina,Clarendon County,33742,26.4
-45029,South Carolina,Colleton County,37676,20.0
+45029,South Carolina,Colleton County,37676,20
 45031,South Carolina,Darlington County,66759,23.5
 45033,South Carolina,Dillon County,30612,32.1
-45035,South Carolina,Dorchester County,160718,11.0
+45035,South Carolina,Dorchester County,160718,11
 45037,South Carolina,Edgefield County,27132,18.5
 45039,South Carolina,Fairfield County,22376,23.7
-45041,South Carolina,Florence County,138277,18.0
+45041,South Carolina,Florence County,138277,18
 45043,South Carolina,Georgetown County,62232,19.6
 45045,South Carolina,Greenville County,514621,11.1
 45047,South Carolina,Greenwood County,70597,18.3
 45049,South Carolina,Hampton County,19348,25.8
 45051,South Carolina,Horry County,344105,14.3
-45053,South Carolina,Jasper County,29147,19.0
+45053,South Carolina,Jasper County,29147,19
 45055,South Carolina,Kershaw County,65802,14.5
 45057,South Carolina,Lancaster County,95035,13.3
 45059,South Carolina,Laurens County,66890,19.7
@@ -2390,7 +2390,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 45063,South Carolina,Lexington County,294350,12.5
 45065,South Carolina,McCormick County,9408,18.6
 45067,South Carolina,Marion County,31056,25.5
-45069,South Carolina,Marlboro County,26392,30.0
+45069,South Carolina,Marlboro County,26392,30
 45071,South Carolina,Newberry County,38443,17.1
 45073,South Carolina,Oconee County,78307,14.4
 45075,South Carolina,Orangeburg County,87013,25.9
@@ -2400,7 +2400,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 45083,South Carolina,Spartanburg County,314137,13.6
 45085,South Carolina,Sumter County,106409,18.7
 45087,South Carolina,Union County,27324,20.4
-45089,South Carolina,Williamsburg County,30606,26.0
+45089,South Carolina,Williamsburg County,30606,26
 45091,South Carolina,York County,273782,9.8
 46000,South Dakota,South Dakota,878698,12.9
 46003,South Dakota,Aurora County,2785,10.2
@@ -2408,7 +2408,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 46007,South Dakota,Bennett County,3473,32.5
 46009,South Dakota,Bon Homme County,6910,15.7
 46011,South Dakota,Brookings County,35077,11.8
-46013,South Dakota,Brown County,39145,11.0
+46013,South Dakota,Brown County,39145,11
 46015,South Dakota,Brule County,5230,15.8
 46017,South Dakota,Buffalo County,2027,45.7
 46019,South Dakota,Butte County,10253,14.3
@@ -2419,17 +2419,17 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 46029,South Dakota,Codington County,28033,11.3
 46031,South Dakota,Corson County,4178,33.6
 46033,South Dakota,Custer County,8812,10.1
-46035,South Dakota,Davison County,19784,12.0
+46035,South Dakota,Davison County,19784,12
 46037,South Dakota,Day County,5507,15.3
 46039,South Dakota,Deuel County,4352,9.1
 46041,South Dakota,Dewey County,5925,25.8
 46043,South Dakota,Douglas County,2926,12.1
 46045,South Dakota,Edmunds County,3866,11.5
-46047,South Dakota,Fall River County,6740,13.0
+46047,South Dakota,Fall River County,6740,13
 46049,South Dakota,Faulk County,2315,15.6
 46051,South Dakota,Grant County,7103,9.9
 46053,South Dakota,Gregory County,4189,16.5
-46055,South Dakota,Haakon County,1902,11.0
+46055,South Dakota,Haakon County,1902,11
 46057,South Dakota,Hamlin County,6070,9.3
 46059,South Dakota,Hand County,3240,9.8
 46061,South Dakota,Hanson County,3364,8.8
@@ -2440,20 +2440,20 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 46071,South Dakota,Jackson County,3278,32.7
 46073,South Dakota,Jerauld County,2026,14.5
 46075,South Dakota,Jones County,928,13.2
-46077,South Dakota,Kingsbury County,4926,9.0
+46077,South Dakota,Kingsbury County,4926,9
 46079,South Dakota,Lake County,13055,10.2
 46081,South Dakota,Lawrence County,25727,12.7
 46083,South Dakota,Lincoln County,58795,4.4
 46085,South Dakota,Lyman County,3804,21.1
 46087,South Dakota,McCook County,5601,9.6
 46089,South Dakota,McPherson County,2401,17.1
-46091,South Dakota,Marshall County,4921,12.0
+46091,South Dakota,Marshall County,4921,12
 46093,South Dakota,Meade County,28204,8.4
 46095,South Dakota,Mellette County,2034,35.2
 46097,South Dakota,Miner County,2204,11.5
 46099,South Dakota,Minnehaha County,190992,9.6
 46101,South Dakota,Moody County,6502,9.9
-46102,South Dakota,Oglala Lakota County,14331,54.0
+46102,South Dakota,Oglala Lakota County,14331,54
 46103,South Dakota,Pennington County,111950,13.3
 46105,South Dakota,Perkins County,2908,13.7
 46107,South Dakota,Potter County,2206,10.2
@@ -2466,8 +2466,8 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 46123,South Dakota,Tripp County,5491,19.9
 46125,South Dakota,Turner County,8422,9.4
 46127,South Dakota,Union County,15570,5.9
-46129,South Dakota,Walworth County,5477,15.0
-46135,South Dakota,Yankton County,22759,11.0
+46129,South Dakota,Walworth County,5477,15
+46135,South Dakota,Yankton County,22759,11
 46137,South Dakota,Ziebach County,2744,43.9
 47000,Tennessee,Tennessee,6771631,15.2
 47001,Tennessee,Anderson County,76287,16.5
@@ -2483,7 +2483,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 47021,Tennessee,Cheatham County,40502,10.3
 47023,Tennessee,Chester County,17245,15.9
 47025,Tennessee,Claiborne County,31850,23.4
-47027,Tennessee,Clay County,7677,21.0
+47027,Tennessee,Clay County,7677,21
 47029,Tennessee,Cocke County,35858,22.5
 47031,Tennessee,Coffee County,55877,15.9
 47033,Tennessee,Crockett County,14296,19.4
@@ -2495,20 +2495,20 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 47045,Tennessee,Dyer County,37286,18.4
 47047,Tennessee,Fayette County,40556,13.1
 47049,Tennessee,Fentress County,18322,20.6
-47051,Tennessee,Franklin County,41935,16.0
+47051,Tennessee,Franklin County,41935,16
 47053,Tennessee,Gibson County,49171,16.5
 47055,Tennessee,Giles County,29446,14.5
 47057,Tennessee,Grainger County,23137,18.4
 47059,Tennessee,Greene County,69164,15.1
 47061,Tennessee,Grundy County,13348,21.2
 47063,Tennessee,Hamblen County,64629,17.1
-47065,Tennessee,Hamilton County,364293,13.0
+47065,Tennessee,Hamilton County,364293,13
 47067,Tennessee,Hancock County,6561,29.9
 47069,Tennessee,Hardeman County,25276,23.5
 47071,Tennessee,Hardin County,25693,20.3
 47073,Tennessee,Hawkins County,56713,18.4
 47075,Tennessee,Haywood County,17347,20.5
-47077,Tennessee,Henderson County,27983,18.0
+47077,Tennessee,Henderson County,27983,18
 47079,Tennessee,Henry County,32336,18.8
 47081,Tennessee,Hickman County,25007,16.3
 47083,Tennessee,Houston County,8234,16.7
@@ -2532,13 +2532,13 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 47119,Tennessee,Maury County,94273,10.8
 47121,Tennessee,Meigs County,12297,17.8
 47123,Tennessee,Monroe County,46269,15.7
-47125,Tennessee,Montgomery County,205312,12.0
+47125,Tennessee,Montgomery County,205312,12
 47127,Tennessee,Moore County,6457,9.1
 47129,Tennessee,Morgan County,21534,20.4
 47131,Tennessee,Obion County,30274,17.7
-47133,Tennessee,Overton County,22068,15.0
+47133,Tennessee,Overton County,22068,15
 47135,Tennessee,Perry County,8050,17.6
-47137,Tennessee,Pickett County,5053,16.0
+47137,Tennessee,Pickett County,5053,16
 47139,Tennessee,Polk County,16918,15.8
 47141,Tennessee,Putnam County,78631,14.5
 47143,Tennessee,Rhea County,32911,18.4
@@ -2546,14 +2546,14 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 47147,Tennessee,Robertson County,71179,10.6
 47149,Tennessee,Rutherford County,324647,10.4
 47151,Tennessee,Scott County,22028,21.2
-47153,Tennessee,Sequatchie County,14891,16.0
+47153,Tennessee,Sequatchie County,14891,16
 47155,Tennessee,Sevier County,97895,13.9
 47157,Tennessee,Shelby County,936365,21.7
 47159,Tennessee,Smith County,19979,13.9
 47161,Tennessee,Stewart County,13619,13.9
 47163,Tennessee,Sullivan County,157599,16.5
 47165,Tennessee,Sumner County,187490,8.9
-47167,Tennessee,Tipton County,61576,12.0
+47167,Tennessee,Tipton County,61576,12
 47169,Tennessee,Trousdale County,11033,18.6
 47171,Tennessee,Unicoi County,17822,16.1
 47173,Tennessee,Union County,19689,19.8
@@ -2579,23 +2579,23 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 48021,Texas,Bastrop County,86595,12.6
 48023,Texas,Baylor County,3573,16.1
 48025,Texas,Bee County,32467,26.7
-48027,Texas,Bell County,355397,13.0
+48027,Texas,Bell County,355397,13
 48029,Texas,Bexar County,1981187,17.2
 48031,Texas,Blanco County,11648,10.1
-48033,Texas,Borden County,647,10.0
+48033,Texas,Borden County,647,10
 48035,Texas,Bosque County,18629,14.9
 48037,Texas,Bowie County,93688,19.1
 48039,Texas,Brazoria County,368887,10.1
 48041,Texas,Brazos County,225781,23.2
-48043,Texas,Brewster County,9272,16.0
+48043,Texas,Brewster County,9272,16
 48045,Texas,Briscoe County,1512,16.2
-48047,Texas,Brooks County,7099,31.0
+48047,Texas,Brooks County,7099,31
 48049,Texas,Brown County,37820,13.2
 48051,Texas,Burleson County,18335,14.8
-48053,Texas,Burnet County,47344,11.0
+48053,Texas,Burnet County,47344,11
 48055,Texas,Caldwell County,43161,14.1
 48057,Texas,Calhoun County,21504,14.2
-48059,Texas,Callahan County,13990,12.0
+48059,Texas,Callahan County,13990,12
 48061,Texas,Cameron County,422139,27.9
 48063,Texas,Camp County,12983,18.8
 48065,Texas,Carson County,6007,8.9
@@ -2615,7 +2615,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 48093,Texas,Comanche County,13540,16.4
 48095,Texas,Concho County,2683,26.6
 48097,Texas,Cooke County,40504,14.8
-48099,Texas,Coryell County,74741,15.0
+48099,Texas,Coryell County,74741,15
 48101,Texas,Cottle County,1382,21.2
 48103,Texas,Crane County,4755,10.1
 48105,Texas,Crockett County,3439,15.3
@@ -2642,8 +2642,8 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 48147,Texas,Fannin County,35185,13.8
 48149,Texas,Fayette County,25278,13.3
 48151,Texas,Fisher County,3821,15.5
-48153,Texas,Floyd County,5783,21.0
-48155,Texas,Foard County,1191,18.0
+48153,Texas,Floyd County,5783,21
+48155,Texas,Foard County,1191,18
 48157,Texas,Fort Bend County,788081,7.9
 48159,Texas,Franklin County,10778,15.2
 48161,Texas,Freestone County,19789,13.7
@@ -2673,7 +2673,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 48209,Texas,Hays County,222706,13.2
 48211,Texas,Hemphill County,3845,9.6
 48213,Texas,Henderson County,82103,19.4
-48215,Texas,Hidalgo County,862298,30.0
+48215,Texas,Hidalgo County,862298,30
 48217,Texas,Hill County,36165,12.6
 48219,Texas,Hockley County,22971,19.5
 48221,Texas,Hood County,60177,10.2
@@ -2682,7 +2682,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 48227,Texas,Howard County,35925,20.6
 48229,Texas,Hudspeth County,4788,17.8
 48231,Texas,Hunt County,96606,13.6
-48233,Texas,Hutchinson County,21119,13.0
+48233,Texas,Hutchinson County,21119,13
 48235,Texas,Irion County,1516,8.1
 48237,Texas,Jack County,8825,17.7
 48239,Texas,Jackson County,14834,12.9
@@ -2692,7 +2692,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 48247,Texas,Jim Hogg County,5192,25.2
 48249,Texas,Jim Wells County,40756,21.2
 48251,Texas,Johnson County,171121,10.7
-48253,Texas,Jones County,19866,22.0
+48253,Texas,Jones County,19866,22
 48255,Texas,Karnes County,15660,21.8
 48257,Texas,Kaufman County,128279,11.5
 48259,Texas,Kendall County,45603,7.5
@@ -2702,10 +2702,10 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 48267,Texas,Kimble County,4338,17.6
 48269,Texas,King County,276,13.7
 48271,Texas,Kinney County,3692,21.1
-48273,Texas,Kleberg County,30722,25.0
+48273,Texas,Kleberg County,30722,25
 48275,Texas,Knox County,3662,20.4
 48277,Texas,Lamar County,49729,14.4
-48279,Texas,Lamb County,13103,20.0
+48279,Texas,Lamb County,13103,20
 48281,Texas,Lampasas County,21134,12.9
 48283,Texas,La Salle County,7493,29.6
 48285,Texas,Lavaca County,20114,13.5
@@ -2713,7 +2713,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 48289,Texas,Leon County,17260,15.6
 48291,Texas,Liberty County,85802,15.1
 48293,Texas,Limestone County,23343,22.2
-48295,Texas,Lipscomb County,3342,12.0
+48295,Texas,Lipscomb County,3342,12
 48297,Texas,Live Oak County,12148,18.7
 48299,Texas,Llano County,21600,12.3
 48301,Texas,Loving County,148,3.3
@@ -2740,24 +2740,24 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 48343,Texas,Morris County,12303,20.2
 48345,Texas,Motley County,1232,17.8
 48347,Texas,Nacogdoches County,65161,21.6
-48349,Texas,Navarro County,49536,20.0
+48349,Texas,Navarro County,49536,20
 48351,Texas,Newton County,13751,22.3
 48353,Texas,Nolan County,14799,18.2
 48355,Texas,Nueces County,362026,16.2
 48357,Texas,Ochiltree County,9866,10.5
-48359,Texas,Oldham County,2118,13.0
+48359,Texas,Oldham County,2118,13
 48361,Texas,Orange County,83474,13.4
 48363,Texas,Palo Pinto County,28874,15.9
 48365,Texas,Panola County,23142,15.7
 48367,Texas,Parker County,138070,8.3
 48369,Texas,Parmer County,9719,13.5
 48371,Texas,Pecos County,15709,19.5
-48373,Texas,Polk County,49955,15.0
+48373,Texas,Polk County,49955,15
 48375,Texas,Potter County,118711,19.7
 48377,Texas,Presidio County,6856,22.4
 48379,Texas,Rains County,12147,14.5
 48381,Texas,Randall County,135691,8.5
-48383,Texas,Reagan County,3736,10.0
+48383,Texas,Reagan County,3736,10
 48385,Texas,Real County,3477,18.1
 48387,Texas,Red River County,12143,18.2
 48389,Texas,Reeves County,15513,21.5
@@ -2777,7 +2777,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 48417,Texas,Shackelford County,3256,13.4
 48419,Texas,Shelby County,25307,20.6
 48421,Texas,Sherman County,3101,12.1
-48423,Texas,Smith County,229749,15.0
+48423,Texas,Smith County,229749,15
 48425,Texas,Somervell County,9030,9.7
 48427,Texas,Starr County,64249,33.2
 48429,Texas,Stephens County,9405,19.4
@@ -2786,13 +2786,13 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 48435,Texas,Sutton County,3752,14.2
 48437,Texas,Swisher County,7413,19.2
 48439,Texas,Tarrant County,2081446,12.1
-48441,Texas,Taylor County,137294,16.0
+48441,Texas,Taylor County,137294,16
 48443,Texas,Terrell County,810,18.9
 48445,Texas,Terry County,12344,22.4
 48447,Texas,Throckmorton County,1504,14.3
 48449,Texas,Titus County,32743,18.6
 48451,Texas,Tom Green County,118014,15.5
-48453,Texas,Travis County,1246572,12.0
+48453,Texas,Travis County,1246572,12
 48455,Texas,Trinity County,14688,17.7
 48457,Texas,Tyler County,21609,18.2
 48459,Texas,Upshur County,41179,15.9
@@ -2807,10 +2807,10 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 48477,Texas,Washington County,35496,13.8
 48479,Texas,Webb County,275120,25.7
 48481,Texas,Wharton County,41499,16.8
-48483,Texas,Wheeler County,5158,14.0
+48483,Texas,Wheeler County,5158,14
 48485,Texas,Wichita County,131807,17.8
 48487,Texas,Wilbarger County,12777,15.3
-48489,Texas,Willacy County,21450,35.0
+48489,Texas,Willacy County,21450,35
 48491,Texas,Williamson County,566463,6.4
 48493,Texas,Wilson County,50196,10.9
 48495,Texas,Winkler County,7778,14.1
@@ -2819,7 +2819,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 48501,Texas,Yoakum County,8590,12.1
 48503,Texas,Young County,17986,13.9
 48505,Texas,Zapata County,14149,32.1
-48507,Texas,Zavala County,11969,32.0
+48507,Texas,Zavala County,11969,32
 49000,Utah,Utah,3153550,9.1
 49001,Utah,Beaver County,6625,9.4
 49003,Utah,Box Elder County,54906,7.3
@@ -2835,13 +2835,13 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 49023,Utah,Juab County,11629,8.5
 49025,Utah,Kane County,7677,10.5
 49027,Utah,Millard County,12987,11.3
-49029,Utah,Morgan County,11956,4.0
+49029,Utah,Morgan County,11956,4
 49031,Utah,Piute County,1438,18.6
 49033,Utah,Rich County,2456,8.9
-49035,Utah,Salt Lake County,1148692,9.0
+49035,Utah,Salt Lake County,1148692,9
 49037,Utah,San Juan County,15358,22.6
 49039,Utah,Sanpete County,30503,14.8
-49041,Utah,Sevier County,21497,12.0
+49041,Utah,Sevier County,21497,12
 49043,Utah,Summit County,41890,6.2
 49045,Utah,Tooele County,69989,6.8
 49047,Utah,Uintah County,35405,11.5
@@ -2858,22 +2858,22 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 50009,Vermont,Essex County,6234,15.5
 50011,Vermont,Franklin County,49258,11.1
 50013,Vermont,Grand Isle County,7110,8.2
-50015,Vermont,Lamoille County,25295,11.0
+50015,Vermont,Lamoille County,25295,11
 50017,Vermont,Orange County,28888,10.2
 50019,Vermont,Orleans County,26859,12.2
 50021,Vermont,Rutland County,58596,10.4
 50023,Vermont,Washington County,58079,10.8
-50025,Vermont,Windham County,42635,12.0
+50025,Vermont,Windham County,42635,12
 50027,Vermont,Windsor County,55204,9.6
 51000,Virginia,Virginia,8501286,10.7
 51001,Virginia,Accomack County,32581,17.3
 51003,Virginia,Albemarle County,108377,8.7
 51005,Virginia,Alleghany County,14986,14.8
 51007,Virginia,Amelia County,13057,9.9
-51009,Virginia,Amherst County,31684,13.0
+51009,Virginia,Amherst County,31684,13
 51011,Virginia,Appomattox County,15881,13.5
 51013,Virginia,Arlington County,236025,6.3
-51015,Virginia,Augusta County,75535,9.0
+51015,Virginia,Augusta County,75535,9
 51017,Virginia,Bath County,4253,10.7
 51019,Virginia,Bedford County,78882,10.4
 51021,Virginia,Bland County,6303,14.1
@@ -2899,7 +2899,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 51063,Virginia,Floyd County,15790,12.3
 51065,Virginia,Fluvanna County,26898,6.9
 51067,Virginia,Franklin County,56191,15.3
-51069,Virginia,Frederick County,88173,7.0
+51069,Virginia,Frederick County,88173,7
 51071,Virginia,Giles County,16799,12.4
 51073,Virginia,Gloucester County,37341,9.1
 51075,Virginia,Goochland County,23219,6.7
@@ -2908,11 +2908,11 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 51081,Virginia,Greensville County,11432,26.7
 51083,Virginia,Halifax County,34181,14.5
 51085,Virginia,Hanover County,106886,5.2
-51087,Virginia,Henrico County,328993,9.0
-51089,Virginia,Henry County,51050,20.0
+51087,Virginia,Henrico County,328993,9
+51089,Virginia,Henry County,51050,20
 51091,Virginia,Highland County,2208,12.7
 51093,Virginia,Isle of Wight County,36972,9.2
-51095,Virginia,James City County,76033,7.0
+51095,Virginia,James City County,76033,7
 51097,Virginia,King and Queen County,7045,12.2
 51099,Virginia,King George County,26612,6.8
 51101,Virginia,King William County,16919,7.3
@@ -2936,14 +2936,14 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 51141,Virginia,Patrick County,17663,15.5
 51143,Virginia,Pittsylvania County,60901,16.4
 51145,Virginia,Powhatan County,29210,6.9
-51147,Virginia,Prince Edward County,22906,20.0
+51147,Virginia,Prince Edward County,22906,20
 51149,Virginia,Prince George County,37993,8.9
 51153,Virginia,Prince William County,466235,6.4
 51155,Virginia,Pulaski County,34060,14.6
 51157,Virginia,Rappahannock County,7345,8.7
 51159,Virginia,Richmond County,8970,15.9
 51161,Virginia,Roanoke County,94086,6.7
-51163,Virginia,Rockbridge County,22761,12.0
+51163,Virginia,Rockbridge County,22761,12
 51165,Virginia,Rockingham County,81261,8.7
 51167,Virginia,Russell County,26795,21.5
 51169,Virginia,Scott County,21672,18.5
@@ -2966,7 +2966,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 51530,Virginia,Buena Vista city,6494,15.2
 51540,Virginia,Charlottesville city,47506,23.1
 51550,Virginia,Chesapeake city,242359,8.5
-51570,Virginia,Colonial Heights city,17504,10.0
+51570,Virginia,Colonial Heights city,17504,10
 51580,Virginia,Covington city,5578,15.4
 51590,Virginia,Danville city,40649,25.6
 51595,Virginia,Emporia city,5363,20.7
@@ -2976,12 +2976,12 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 51630,Virginia,Fredericksburg city,29171,14.5
 51640,Virginia,Galax city,6348,21.7
 51650,Virginia,Hampton city,134330,15.4
-51660,Virginia,Harrisonburg city,53488,28.0
+51660,Virginia,Harrisonburg city,53488,28
 51670,Virginia,Hopewell city,22478,19.7
 51678,Virginia,Lexington city,7297,23.8
 51680,Virginia,Lynchburg city,81309,20.8
 51683,Virginia,Manassas city,41046,8.4
-51685,Virginia,Manassas Park city,17718,7.0
+51685,Virginia,Manassas Park city,17718,7
 51690,Virginia,Martinsville city,12627,24.7
 51700,Virginia,Newport News city,178523,15.2
 51710,Virginia,Norfolk city,243585,19.7
@@ -2997,11 +2997,11 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 51800,Virginia,Suffolk city,90975,10.9
 51810,Virginia,Virginia Beach city,449849,7.5
 51820,Virginia,Waynesboro city,22531,15.1
-51830,Virginia,Williamsburg city,15002,23.0
+51830,Virginia,Williamsburg city,15002,23
 51840,Virginia,Winchester city,27962,15.3
 53000,Washington,Washington,7523869,10.3
 53001,Washington,Adams County,19736,15.6
-53003,Washington,Asotin County,22616,14.0
+53003,Washington,Asotin County,22616,14
 53005,Washington,Benton County,201286,9.8
 53007,Washington,Chelan County,76752,10.9
 53009,Washington,Clallam County,76551,13.3
@@ -3023,15 +3023,15 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 53041,Washington,Lewis County,79569,12.5
 53043,Washington,Lincoln County,10726,12.5
 53045,Washington,Mason County,65380,13.7
-53047,Washington,Okanogan County,42117,17.0
+53047,Washington,Okanogan County,42117,17
 53049,Washington,Pacific County,22074,15.4
-53051,Washington,Pend Oreille County,13586,15.0
+53051,Washington,Pend Oreille County,13586,15
 53053,Washington,Pierce County,893756,8.7
 53055,Washington,San Juan County,17124,10.2
 53057,Washington,Skagit County,127835,9.7
 53059,Washington,Skamania County,11919,11.7
 53061,Washington,Snohomish County,813059,7.5
-53063,Washington,Spokane County,513603,13.0
+53063,Washington,Spokane County,513603,13
 53065,Washington,Stevens County,45224,13.5
 53067,Washington,Thurston County,286056,8.7
 53069,Washington,Wahkiakum County,4415,10.9
@@ -3040,7 +3040,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 53075,Washington,Whitman County,49683,25.4
 53077,Washington,Yakima County,250562,16.5
 54000,West Virginia,West Virginia,1804291,17.4
-54001,West Virginia,Barbour County,16487,20.0
+54001,West Virginia,Barbour County,16487,20
 54003,West Virginia,Berkeley County,117236,11.5
 54005,West Virginia,Boone County,21953,22.5
 54007,West Virginia,Braxton County,14076,21.6
@@ -3048,12 +3048,12 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 54011,West Virginia,Cabell County,93035,19.3
 54013,West Virginia,Calhoun County,7217,22.8
 54015,West Virginia,Clay County,8639,25.1
-54017,West Virginia,Doddridge County,8556,19.0
+54017,West Virginia,Doddridge County,8556,19
 54019,West Virginia,Fayette County,42982,22.5
 54021,West Virginia,Gilmer County,7898,24.8
 54023,West Virginia,Grant County,11630,14.9
 54025,West Virginia,Greenbrier County,34792,15.8
-54027,West Virginia,Hampshire County,23357,20.0
+54027,West Virginia,Hampshire County,23357,20
 54029,West Virginia,Hancock County,29079,13.2
 54031,West Virginia,Hardy County,13764,12.9
 54033,West Virginia,Harrison County,67494,16.7
@@ -3069,17 +3069,17 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 54053,West Virginia,Mason County,26752,16.9
 54055,West Virginia,Mercer County,59202,22.7
 54057,West Virginia,Mineral County,26953,14.5
-54059,West Virginia,Mingo County,23851,27.0
+54059,West Virginia,Mingo County,23851,27
 54061,West Virginia,Monongalia County,105651,18.3
 54063,West Virginia,Monroe County,13289,14.9
 54065,West Virginia,Morgan County,17830,10.8
-54067,West Virginia,Nicholas County,24835,19.0
+54067,West Virginia,Nicholas County,24835,19
 54069,West Virginia,Ohio County,41705,12.5
 54071,West Virginia,Pendleton County,6984,14.6
 54073,West Virginia,Pleasants County,7505,13.6
 54075,West Virginia,Pocahontas County,8408,17.5
 54077,West Virginia,Preston County,33553,16.2
-54079,West Virginia,Putnam County,56642,10.0
+54079,West Virginia,Putnam County,56642,10
 54081,West Virginia,Raleigh County,74172,20.7
 54083,West Virginia,Randolph County,28814,19.4
 54085,West Virginia,Ritchie County,9748,17.2
@@ -3088,12 +3088,12 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 54091,West Virginia,Taylor County,16828,16.1
 54093,West Virginia,Tucker County,6937,13.5
 54095,West Virginia,Tyler County,8740,15.5
-54097,West Virginia,Upshur County,24372,19.0
+54097,West Virginia,Upshur County,24372,19
 54099,West Virginia,Wayne County,39961,20.9
-54101,West Virginia,Webster County,8274,23.0
+54101,West Virginia,Webster County,8274,23
 54103,West Virginia,Wetzel County,15259,18.3
 54105,West Virginia,Wirt County,5811,18.7
-54107,West Virginia,Wood County,84180,15.0
+54107,West Virginia,Wood County,84180,15
 54109,West Virginia,Wyoming County,20784,24.1
 55000,Wisconsin,Wisconsin,5807406,11.1
 55001,Wisconsin,Adams County,20341,15.3
@@ -3117,15 +3117,15 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 55037,Wisconsin,Florence County,4294,11.9
 55039,Wisconsin,Fond du Lac County,103001,9.5
 55041,Wisconsin,Forest County,8977,14.7
-55043,Wisconsin,Grant County,51444,14.0
+55043,Wisconsin,Grant County,51444,14
 55045,Wisconsin,Green County,36924,7.7
-55047,Wisconsin,Green Lake County,18849,11.0
+55047,Wisconsin,Green Lake County,18849,11
 55049,Wisconsin,Iowa County,23722,8.2
 55051,Wisconsin,Iron County,5687,13.2
-55053,Wisconsin,Jackson County,20472,12.0
+55053,Wisconsin,Jackson County,20472,12
 55055,Wisconsin,Jefferson County,85049,8.1
 55057,Wisconsin,Juneau County,26593,13.4
-55059,Wisconsin,Kenosha County,168926,12.0
+55059,Wisconsin,Kenosha County,168926,12
 55061,Wisconsin,Kewaunee County,20395,7.3
 55063,Wisconsin,La Crosse County,118041,10.9
 55065,Wisconsin,Lafayette County,16672,11.3
@@ -3133,7 +3133,7 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 55069,Wisconsin,Lincoln County,27673,10.6
 55071,Wisconsin,Manitowoc County,79015,10.4
 55073,Wisconsin,Marathon County,135421,7.5
-55075,Wisconsin,Marinette County,40402,12.0
+55075,Wisconsin,Marinette County,40402,12
 55077,Wisconsin,Marquette County,15418,10.8
 55078,Wisconsin,Menominee County,4595,26.5
 55079,Wisconsin,Milwaukee County,946969,19.1
@@ -3157,20 +3157,20 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 55115,Wisconsin,Shawano County,40771,9.6
 55117,Wisconsin,Sheboygan County,115233,7.5
 55119,Wisconsin,Taylor County,20364,10.3
-55121,Wisconsin,Trempealeau County,29494,8.0
+55121,Wisconsin,Trempealeau County,29494,8
 55123,Wisconsin,Vernon County,30772,13.6
 55125,Wisconsin,Vilas County,21928,10.9
 55127,Wisconsin,Walworth County,103550,10.1
 55129,Wisconsin,Washburn County,15837,12.5
 55131,Wisconsin,Washington County,135445,4.5
-55133,Wisconsin,Waukesha County,402522,5.0
+55133,Wisconsin,Waukesha County,402522,5
 55135,Wisconsin,Waupaca County,51130,10.4
 55137,Wisconsin,Waushara County,24267,10.9
 55139,Wisconsin,Winnebago County,170878,10.4
 55141,Wisconsin,Wood County,72954,10.1
 56000,Wyoming,Wyoming,577601,10.7
 56001,Wyoming,Albany County,38728,20.4
-56003,Wyoming,Big Horn County,11877,13.0
+56003,Wyoming,Big Horn County,11877,13
 56005,Wyoming,Campbell County,46299,9.2
 56007,Wyoming,Carbon County,14879,13.4
 56009,Wyoming,Converse County,13658,9.5
@@ -3189,6 +3189,6 @@ FIPS,STNAME,CTYNAME,POPESTIMATE2018,Poverty Percent
 56035,Wyoming,Sublette County,9798,6.8
 56037,Wyoming,Sweetwater County,42858,8.4
 56039,Wyoming,Teton County,23269,6.3
-56041,Wyoming,Uinta County,20292,10.0
+56041,Wyoming,Uinta County,20292,10
 56043,Wyoming,Washakie County,7877,11.9
 56045,Wyoming,Weston County,6924,11.8
