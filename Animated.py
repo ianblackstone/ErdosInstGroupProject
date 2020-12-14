@@ -7,16 +7,16 @@ import matplotlib.pyplot as plt
 
 
 # # Define the files being read from
-# US_counties_file = '../covid-19-data/us-counties.csv'
-# US_population_file = 'popData.csv'
+US_counties_file = '../covid-19-data/us-counties.csv'
+US_population_file = 'popData.csv'
 
 
 # # Read the files as dataframes
 # COVID = pd.read_csv(US_counties_file)
-# pop = pd.read_csv(US_population_file)
+pop = pd.read_csv(US_population_file)
 
 # # Remove the work county from county names.
-# pop.CTYNAME = pop.CTYNAME.replace({' County':''}, regex=True)
+pop.CTYNAME = pop.CTYNAME.replace({' County':''}, regex=True)
 
 # # Define a new column to hold the percantage of each state's population that live in each county.
 # pop['pop_pct'] = 0
@@ -46,52 +46,54 @@ import matplotlib.pyplot as plt
 # COVID.to_csv('COVID_filled.csv', index = False)
 
 # Read the data.
-# COVID = pd.read_csv('COVID_filled.csv')
+COVID = pd.read_csv('COVID_by_County/COVID_by_County.csv')
 
 # COVID = COVID.groupby(['date','fips','state','county']).sum().reset_index()
 
-# COVID = pd.merge(COVID, pop[['FIPS','POPESTIMATE2018']], left_on = 'fips', right_on = 'FIPS', how = 'left').drop(columns='FIPS')
+COVID = pd.merge(COVID, pop[['FIPS','POPESTIMATE2018']], left_on = 'countyFIPS', right_on = 'FIPS', how = 'left').drop(columns='FIPS')
 
-# COVID['cases_per_100k'] = COVID.cases/COVID.POPESTIMATE2018 * 100000
+COVID = COVID.rename(columns={'countyFIPS':'fips'})
 
-# sd = 'us_county.shp'
+COVID['cases_per_100k'] = COVID.cases/COVID.POPESTIMATE2018 * 100000
 
-# mapdf = gpd.read_file(sd)
+sd = 'us_county.shp'
 
-# mapdf['fips']=mapdf['fips'].astype('float')
+mapdf = gpd.read_file(sd)
 
-# vmin = 0
-# vmax = COVID.cases_per_100k.max()
+mapdf['fips']=mapdf['fips'].astype('float')
 
-# dates = COVID.date.unique()
+vmin = 0
+vmax = COVID.cases_per_100k.max()
 
-# for date in dates[70:]:
-#     rdf=COVID[COVID['date'].str.contains(date)]
+dates = COVID.Dates.unique()
+
+for date in dates[70:]:
+    rdf=COVID[COVID['Dates'].str.contains(date)]
     
-#     merged=pd.merge(mapdf,rdf,how='inner',on='fips')
+    merged=pd.merge(mapdf,rdf,how='inner',on='fips')
     
-#     fil = ['Northern Mariana Islands', 'Puerto Rico', 'Virgin Islands', 'Hawaii', 'Alaska']
-#     merged = merged[~merged.state.isin(fil)]
+    fil = ['Northern Mariana Islands', 'Puerto Rico', 'Virgin Islands', 'Hawaii', 'Alaska']
+    merged = merged[~merged.state.isin(fil)]
         
-#     # create figure and axes for Matplotlib
-#     fig, ax = plt.subplots(1, figsize=(14,6))
+    # create figure and axes for Matplotlib
+    fig, ax = plt.subplots(1, figsize=(14,6))
     
-#     # add a title and annotation
-#     ax.set_title('Cases of Covid ' + date, fontdict={'fontsize': '25', 'fontweight' : '3'})
+    # add a title and annotation
+    ax.set_title('Cases of Covid ' + date, fontdict={'fontsize': '25', 'fontweight' : '3'})
     
-#     # create map
-#     merged.plot(column='cases_per_100k', cmap='OrRd', linewidth=1, ax=ax, edgecolor='.5')
+    # create map
+    merged.plot(column='cases_per_100k', cmap='OrRd', linewidth=1, ax=ax, edgecolor='.5')
     
-#     # remove the axis
-#     ax.axis('off')
+    # remove the axis
+    ax.axis('off')
     
-#     # Create colorbar legend
-#     sm = plt.cm.ScalarMappable(cmap='OrRd', norm=plt.Normalize(vmin=vmin, vmax=vmax))
+    # Create colorbar legend
+    sm = plt.cm.ScalarMappable(cmap='OrRd', norm=plt.Normalize(vmin=vmin, vmax=vmax))
     
-#     # empty array for the data range
-#     sm.set_array([])
+    # empty array for the data range
+    sm.set_array([])
     
-#     #add colorbar
-#     cbar = fig.colorbar(sm)
-#     fig.savefig('images/' + date + '.png')
-#     plt.close(fig=None)
+    #add colorbar
+    cbar = fig.colorbar(sm)
+    fig.savefig('images/' + date + '.png')
+    plt.close(fig=None)
