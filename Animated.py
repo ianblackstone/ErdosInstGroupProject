@@ -4,10 +4,12 @@ import numpy as np
 import pandas as pd 
 import geopandas as gpd
 import matplotlib.pyplot as plt
+import os
+import imageio
 
 
 # # Define the files being read from
-US_counties_file = '../covid-19-data/us-counties.csv'
+# US_counties_file = '../covid-19-data/us-counties.csv'
 US_population_file = 'popData.csv'
 
 
@@ -46,6 +48,57 @@ pop.CTYNAME = pop.CTYNAME.replace({' County':''}, regex=True)
 # COVID.to_csv('COVID_filled.csv', index = False)
 
 # Read the data.
+# COVID = pd.read_csv('COVID_filled.csv')
+
+# COVID = COVID.groupby(['date','fips','state','county']).sum().reset_index()
+
+# COVID = pd.merge(COVID, pop[['FIPS','POPESTIMATE2018']], left_on = 'fips', right_on = 'FIPS', how = 'left').drop(columns='FIPS')
+
+# COVID['cases_per_100k'] = COVID.cases/COVID.POPESTIMATE2018 * 100000
+
+# sd = 'us_county.shp'
+
+# mapdf = gpd.read_file(sd)`
+
+# mapdf['fips']=mapdf['fips'].astype('float')
+
+# vmin = 0
+# vmax = COVID.cases_per_100k.max()
+
+# dates = COVID.date.unique()
+
+# for date in dates[70:]:
+#     rdf=COVID[COVID['date'].str.contains(date)]
+    
+#     merged=pd.merge(mapdf,rdf,how='inner',on='fips')
+    
+#     fil = ['Northern Mariana Islands', 'Puerto Rico', 'Virgin Islands', 'Hawaii', 'Alaska']
+#     merged = merged[~merged.state.isin(fil)]
+        
+#     # create figure and axes for Matplotlib
+#     fig, ax = plt.subplots(1, figsize=(14,6))
+    
+#     # add a title and annotation
+#     ax.set_title('Cases of Covid ' + date, fontdict={'fontsize': '25', 'fontweight' : '3'})
+    
+#     # create map
+#     merged.plot(column='cases_per_100k', cmap='OrRd', linewidth=1, ax=ax, edgecolor='.5')
+    
+#     # remove the axis
+#     ax.axis('off')
+    
+#     # Create colorbar legend
+#     sm = plt.cm.ScalarMappable(cmap='OrRd', norm=plt.Normalize(vmin=vmin, vmax=vmax))
+    
+#     # empty array for the data range
+#     sm.set_array([])
+    
+#     #add colorbar
+#     cbar = fig.colorbar(sm)
+#     fig.savefig('images/' + date + '.png')
+#     plt.close(fig=None)
+
+# Read the data.
 COVID = pd.read_csv('COVID_by_County/COVID_by_County.csv')
 
 # COVID = COVID.groupby(['date','fips','state','county']).sum().reset_index()
@@ -67,13 +120,13 @@ vmax = COVID.cases_per_100k.max()
 
 dates = COVID.Dates.unique()
 
-for date in dates[70:]:
+for date in dates[260:]:
     rdf=COVID[COVID['Dates'].str.contains(date)]
     
     merged=pd.merge(mapdf,rdf,how='inner',on='fips')
     
-    fil = ['Northern Mariana Islands', 'Puerto Rico', 'Virgin Islands', 'Hawaii', 'Alaska']
-    merged = merged[~merged.state.isin(fil)]
+    fil = ['AK', 'HI']
+    merged = merged[~merged.State.isin(fil)]
         
     # create figure and axes for Matplotlib
     fig, ax = plt.subplots(1, figsize=(14,6))
@@ -82,7 +135,7 @@ for date in dates[70:]:
     ax.set_title('Cases of Covid ' + date, fontdict={'fontsize': '25', 'fontweight' : '3'})
     
     # create map
-    merged.plot(column='cases_per_100k', cmap='OrRd', linewidth=1, ax=ax, edgecolor='.5')
+    merged.plot(column='cases_per_100k', cmap='OrRd', linewidth=0.1, ax=ax, edgecolor='.5', vmin=vmin, vmax=vmax)
     
     # remove the axis
     ax.axis('off')
@@ -95,5 +148,37 @@ for date in dates[70:]:
     
     #add colorbar
     cbar = fig.colorbar(sm)
-    fig.savefig('images/' + date + '.png')
+    fig.savefig('images/' + date.replace('/','-') + '.png')
     plt.close(fig=None)
+    
+
+
+# os.chdir('images/')
+
+# filenames = os.listdir()
+
+# with imageio.get_writer('../movie2.gif', mode='I') as writer:
+#     for filename in filenames:
+#         image = imageio.imread(filename)
+#         writer.append_data(image)
+
+# os.chdir('images/')
+
+# filenames = os.listdir()
+
+# for fname in filenames:
+#     month = fname.split('-')[0]
+#     day = fname.split('-')[1]
+    
+#     if len(month) > 1:
+#         pass
+#     else:
+#         month = '0' + month
+    
+#     if len(day) > 1:
+#         pass
+#     else:
+#         day = '0' + day
+    
+#     os.rename(fname,month + '-' + day + '-' + fname.split('-')[2])
+        
