@@ -147,9 +147,9 @@ for st in state_list:
     pred_d_knn = knn_d.predict(X_test)
     
     pct_c_rf = np.mean(y_cases_test - pred_c_rf) * RDF.POPESTIMATE2018[mask].sum()*100 / RDF[mask].cases.sum()
-    pct_d_rf = np.mean(y_deaths_test - pred_d_rf) * RDF.POPESTIMATE2018[mask].sum()*100 / RDF[mask].cases.sum()
+    pct_d_rf = np.mean(y_deaths_test - pred_d_rf) * RDF.POPESTIMATE2018[mask].sum()*100 / RDF[mask].deaths.sum()
     pct_c_knn = np.mean(y_cases_test - pred_c_knn) * RDF.POPESTIMATE2018[mask].sum()*100 / RDF[mask].cases.sum()
-    pct_d_knn = np.mean(y_deaths_test - pred_d_knn) * RDF.POPESTIMATE2018[mask].sum()*100 / RDF[mask].cases.sum()
+    pct_d_knn = np.mean(y_deaths_test - pred_d_knn) * RDF.POPESTIMATE2018[mask].sum()*100 / RDF[mask].deaths.sum()
     
     apnd_df = pd.DataFrame({'State':st,'Predicted_cases_rf':np.sum(pred_c_rf),'Pct_c_rf':[pct_c_rf],'Predicted_deaths_rf':np.sum(pred_d_rf),'Pct_d_rf':[pct_d_rf],'Predicted_cases_knn':np.sum(pred_c_knn),'Pct_c_knn':[pct_c_knn],'Predicted_deaths_knn':np.sum(pred_d_knn),'Pct_d_knn':[pct_d_knn],'Reported_cases':np.sum(y_cases_test),'Reported_deaths':np.sum(y_deaths_test)})
     state_score = state_score.append(apnd_df)
